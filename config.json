@@ -1,0 +1,29 @@
+{
+  "city_name": "Wrocław",
+  "city_genitive": "Wrocławia",
+  "site_title": "Radoskop Wrocław — Jak głosują radni?",
+  "site_url": "https://wroclaw.radoskop.pl",
+  "site_description": "Radoskop — otwarte narzędzie monitoringu Rady Miejskiej Wrocławia. Sprawdź frekwencję, głosowania i aktywność radnych na sesjach.",
+  "site_description_short": "Otwarte narzędzie monitoringu Rady Miejskiej Wrocławia. Frekwencja, głosowania i aktywność radnych.",
+  "bip_url": "https://bip.um.wroc.pl/artykuly/769/sesje-rady",
+  "bip_name": "BIP Wrocław",
+  "github_url": "https://github.com/patrykorwat/radoskop-wroclaw",
+  "ga_id": "",
+  "author": "Patryk Orwat",
+  "cname": "wroclaw.radoskop.pl",
+  "clubs": {
+    "KO":      {"color": "#0284c7", "bg": "rgba(14,165,233,0.12)",  "avatar_bg": "#0369a1"},
+    "PiS":     {"color": "#7c3aed", "bg": "rgba(168,85,247,0.12)",  "avatar_bg": "#6d28d9"},
+    "Lewica":  {"color": "#dc2626", "bg": "rgba(239,68,68,0.12)",   "avatar_bg": "#b91c1c"},
+    "BS":      {"color": "#16a34a", "bg": "rgba(34,197,94,0.12)",   "avatar_bg": "#15803d"}
+  },
+  "kadencje": {
+    "2024-2029": {
+      "label": "IX kadencja (2024–2029)",
+      "start": "2024-05-07"
+    }
+  },
+  "has_budget": false,
+  "has_komisje": false,
+  "budget_note": ""
+}
