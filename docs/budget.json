@@ -344,7 +344,12 @@
           "name": "Inne",
           "amount": 40000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Trasa Autobusowo-Tramwajowa i prace torowe",
+        "amount": 150000000,
+        "category": "Transport"
+      }
     },
     "2021": {
       "total": 750000000,
@@ -377,7 +382,12 @@
           "name": "Inne",
           "amount": 40000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Tramwaj na Popowice",
+        "amount": 112000000,
+        "category": "Transport"
+      }
     },
     "2022": {
       "total": 900000000,
@@ -410,7 +420,12 @@
           "name": "Inne",
           "amount": 45000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Tramwaj na Popowice",
+        "amount": 112000000,
+        "category": "Transport"
+      }
     },
     "2023": {
       "total": 1080000000,
@@ -443,7 +458,12 @@
           "name": "Inne",
           "amount": 55000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Trasa Autobusowo-Tramwajowa na Nowy Dwór",
+        "amount": 73000000,
+        "category": "Transport"
+      }
     },
     "2024": {
       "total": 809000000,
@@ -476,7 +496,12 @@
           "name": "Inne",
           "amount": 44000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Aleja Wielkiej Wyspy",
+        "amount": 51000000,
+        "category": "Drogi"
+      }
     },
     "2025": {
       "total": 1100000000,
@@ -509,7 +534,12 @@
           "name": "Inne",
           "amount": 60000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Infrastruktura tramwajowa i drogowa",
+        "amount": 200000000,
+        "category": "Transport"
+      }
     },
     "2026": {
       "total": 1540000000,
@@ -546,7 +576,12 @@
           "name": "Inne",
           "amount": 156000000
         }
-      ]
+      ],
+      "top_project": {
+        "name": "Inwestycje transportowe i drogowe",
+        "amount": 572000000,
+        "category": "Transport"
+      }
     }
   },
   "top_projects": [
