@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wroclaw.radoskop.pl/sitemap.xml

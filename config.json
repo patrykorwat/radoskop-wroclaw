@@ -14,8 +14,7 @@
   "clubs": {
     "KO":      {"color": "#0284c7", "bg": "rgba(14,165,233,0.12)",  "avatar_bg": "#0369a1"},
     "PiS":     {"color": "#7c3aed", "bg": "rgba(168,85,247,0.12)",  "avatar_bg": "#6d28d9"},
-    "Lewica":  {"color": "#dc2626", "bg": "rgba(239,68,68,0.12)",   "avatar_bg": "#b91c1c"},
-    "BS":      {"color": "#16a34a", "bg": "rgba(34,197,94,0.12)",   "avatar_bg": "#15803d"}
+    "Lewica":  {"color": "#dc2626", "bg": "rgba(239,68,68,0.12)",   "avatar_bg": "#b91c1c"}
   },
   "kadencje": {
     "2024-2029": {
