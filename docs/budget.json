@@ -349,7 +349,24 @@
         "name": "Trasa Autobusowo-Tramwajowa i prace torowe",
         "amount": 150000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Trasa Autobusowo-Tramwajowa (TAT)",
+          "amount": 150000000,
+          "category": "Transport"
+        },
+        {
+          "name": "Szkoły i infrastruktura edukacyjna",
+          "amount": 103000000,
+          "category": "Edukacja"
+        },
+        {
+          "name": "Tramwaj na Popowice (rozpoczęcie)",
+          "amount": 100000000,
+          "category": "Transport"
+        }
+      ]
     },
     "2021": {
       "total": 750000000,
@@ -387,7 +404,24 @@
         "name": "Tramwaj na Popowice",
         "amount": 112000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Tramwaj na Popowice",
+          "amount": 120000000,
+          "category": "Transport"
+        },
+        {
+          "name": "Szkoły i przedszkola",
+          "amount": 103000000,
+          "category": "Edukacja"
+        },
+        {
+          "name": "Rewitalizacja i muzea",
+          "amount": 80000000,
+          "category": "Kultura"
+        }
+      ]
     },
     "2022": {
       "total": 900000000,
@@ -425,7 +459,24 @@
         "name": "Tramwaj na Popowice",
         "amount": 112000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Tramwaj na Popowice (dokończenie)",
+          "amount": 112000000,
+          "category": "Transport"
+        },
+        {
+          "name": "Szkoły i infrastruktura sportowa",
+          "amount": 107000000,
+          "category": "Edukacja"
+        },
+        {
+          "name": "TAT na Nowy Dwór (budowa)",
+          "amount": 76000000,
+          "category": "Transport"
+        }
+      ]
     },
     "2023": {
       "total": 1080000000,
@@ -463,7 +514,24 @@
         "name": "Trasa Autobusowo-Tramwajowa na Nowy Dwór",
         "amount": 73000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Obwodnica Leśnicy",
+          "amount": 181000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "Drogi i infrastruktura drogowa",
+          "amount": 120000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "TAT na Nowy Dwór (faza III)",
+          "amount": 73000000,
+          "category": "Transport"
+        }
+      ]
     },
     "2024": {
       "total": 809000000,
@@ -501,7 +569,24 @@
         "name": "Aleja Wielkiej Wyspy",
         "amount": 51000000,
         "category": "Drogi"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Drogi i remonty ulic",
+          "amount": 80000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "Aleja Wielkiej Wyspy",
+          "amount": 51000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "Szkoły i edukacja",
+          "amount": 40000000,
+          "category": "Edukacja"
+        }
+      ]
     },
     "2025": {
       "total": 1100000000,
@@ -539,7 +624,24 @@
         "name": "Infrastruktura tramwajowa i drogowa",
         "amount": 200000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Infrastruktura tramwajowa i torowiska",
+          "amount": 200000000,
+          "category": "Transport"
+        },
+        {
+          "name": "Program Na Dobrej Drodze",
+          "amount": 150000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "Drogi i mosty",
+          "amount": 100000000,
+          "category": "Drogi"
+        }
+      ]
     },
     "2026": {
       "total": 1540000000,
@@ -581,7 +683,24 @@
         "name": "Inwestycje transportowe i drogowe",
         "amount": 572000000,
         "category": "Transport"
-      }
+      },
+      "top_projects": [
+        {
+          "name": "Inwestycje transportowe i łączność",
+          "amount": 572000000,
+          "category": "Transport"
+        },
+        {
+          "name": "Infrastruktura drogowa (Na Dobrej Drodze)",
+          "amount": 197000000,
+          "category": "Drogi"
+        },
+        {
+          "name": "Tramwaj na Swojczyce + węzeł Dubois",
+          "amount": 109000000,
+          "category": "Transport"
+        }
+      ]
     }
   },
   "top_projects": [
