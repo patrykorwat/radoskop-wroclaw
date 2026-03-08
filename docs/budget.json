@@ -1,1 +1,126 @@
-{}
+{
+  "totals": [
+    {
+      "year": 2020,
+      "revenue": 5300000000,
+      "expenditure": 5600000000,
+      "deficit": 300000000
+    },
+    {
+      "year": 2021,
+      "revenue": 5400000000,
+      "expenditure": 5900000000,
+      "deficit": 500000000
+    },
+    {
+      "year": 2022,
+      "revenue": 5300000000,
+      "expenditure": 6160000000,
+      "deficit": 837000000
+    },
+    {
+      "year": 2023,
+      "revenue": 5590000000,
+      "expenditure": 6400000000,
+      "deficit": 599000000
+    },
+    {
+      "year": 2024,
+      "revenue": 6780000000,
+      "expenditure": 7200000000,
+      "deficit": 425000000
+    },
+    {
+      "year": 2025,
+      "revenue": 7700000000,
+      "expenditure": 8500000000,
+      "deficit": 566000000
+    },
+    {
+      "year": 2026,
+      "revenue": 8490000000,
+      "expenditure": 9670000000,
+      "deficit": 1100000000
+    }
+  ],
+  "categories": {
+    "2020": [
+      {"name": "Edukacja", "amount": 1400000000},
+      {"name": "Transport", "amount": 980000000},
+      {"name": "Pomoc społeczna", "amount": 700000000},
+      {"name": "Gospodarka komunalna", "amount": 550000000},
+      {"name": "Administracja", "amount": 400000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 280000000},
+      {"name": "Kultura", "amount": 200000000},
+      {"name": "Sport", "amount": 120000000},
+      {"name": "Inne", "amount": 970000000}
+    ],
+    "2021": [
+      {"name": "Edukacja", "amount": 1530000000},
+      {"name": "Transport", "amount": 1050000000},
+      {"name": "Pomoc społeczna", "amount": 750000000},
+      {"name": "Gospodarka komunalna", "amount": 580000000},
+      {"name": "Administracja", "amount": 430000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 290000000},
+      {"name": "Kultura", "amount": 210000000},
+      {"name": "Sport", "amount": 130000000},
+      {"name": "Inne", "amount": 930000000}
+    ],
+    "2022": [
+      {"name": "Edukacja", "amount": 1780000000},
+      {"name": "Transport", "amount": 1150000000},
+      {"name": "Pomoc społeczna", "amount": 816000000},
+      {"name": "Gospodarka komunalna", "amount": 620000000},
+      {"name": "Administracja", "amount": 470000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 310000000},
+      {"name": "Kultura", "amount": 230000000},
+      {"name": "Sport", "amount": 140000000},
+      {"name": "Inne", "amount": 644000000}
+    ],
+    "2023": [
+      {"name": "Edukacja", "amount": 2080000000},
+      {"name": "Transport", "amount": 1200000000},
+      {"name": "Pomoc społeczna", "amount": 830000000},
+      {"name": "Gospodarka komunalna", "amount": 680000000},
+      {"name": "Administracja", "amount": 510000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 340000000},
+      {"name": "Kultura", "amount": 250000000},
+      {"name": "Sport", "amount": 150000000},
+      {"name": "Inne", "amount": 360000000}
+    ],
+    "2024": [
+      {"name": "Edukacja", "amount": 2330000000},
+      {"name": "Transport", "amount": 1400000000},
+      {"name": "Gospodarka komunalna", "amount": 703000000},
+      {"name": "Pomoc społeczna", "amount": 632000000},
+      {"name": "Administracja", "amount": 550000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 370000000},
+      {"name": "Kultura", "amount": 270000000},
+      {"name": "Sport", "amount": 160000000},
+      {"name": "Inne", "amount": 785000000}
+    ],
+    "2025": [
+      {"name": "Edukacja", "amount": 2900000000},
+      {"name": "Transport", "amount": 1571000000},
+      {"name": "Gospodarka komunalna", "amount": 820000000},
+      {"name": "Pomoc społeczna", "amount": 750000000},
+      {"name": "Administracja", "amount": 590000000},
+      {"name": "Gospodarka mieszkaniowa", "amount": 400000000},
+      {"name": "Kultura", "amount": 290000000},
+      {"name": "Sport", "amount": 170000000},
+      {"name": "Inne", "amount": 1009000000}
+    ],
+    "2026": [
+      {"name": "Edukacja", "amount": 3570000000},
+      {"name": "Transport", "amount": 1790000000},
+      {"name": "Gospodarka komunalna", "amount": 940000000},
+      {"name": "Pomoc społeczna", "amount": 814000000},
+      {"name": "Administracja", "amount": 607000000},
+      {"name": "Kultura", "amount": 276000000},
+      {"name": "Sport", "amount": 180000000},
+      {"name": "Bezpieczeństwo", "amount": 164000000},
+      {"name": "Inne", "amount": 1329000000}
+    ]
+  },
+  "votes": {}
+}
