@@ -1645,6 +1645,7 @@ function renderBudget() {
     }
 
 
+
     // Budget votes for this year
     if (votes.length > 0) {
       const uchwalenie = votes.filter(v => /uchwaleni[aeu]\s+budżet/i.test(v.topic) && !/zmian|poprawka/i.test(v.topic));
