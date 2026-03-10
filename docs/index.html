@@ -199,6 +199,49 @@ a.name-link:hover { text-decoration-color:var(--accent); }
 footer a { text-decoration:underline; text-decoration-color:rgba(79,70,229,0.3); }
 .stats-grid { min-height:90px; }
 header { min-height:80px; }
+
+/* ── Mobile ── */
+@media (max-width: 600px) {
+  .container { padding:12px; }
+  header { padding:20px 0 12px; margin-bottom:16px; }
+  header h1 { font-size:1.5rem; }
+  header div { min-width:0; }
+  .tab-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; gap:4px; padding-bottom:4px; }
+  .tab-bar::-webkit-scrollbar { display:none; }
+  .tab { white-space:nowrap; flex-shrink:0; padding:6px 12px; font-size:0.8rem; }
+  .kadencja-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .kadencja-btn { flex-shrink:0; padding:6px 12px; font-size:0.8rem; }
+  .stats-grid { grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:8px; }
+  .stat-card { padding:12px; }
+  .stat-card .value { font-size:1.5rem; }
+  .profile-metrics { grid-template-columns:repeat(3, 1fr); gap:8px; }
+  .metric-card { padding:10px 6px; }
+  .metric-card .metric-value { font-size:1.2rem; word-break:break-word; }
+  .metric-card .metric-label { font-size:0.65rem; }
+  .profile-meta { grid-template-columns:1fr; gap:10px; }
+  .filter-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; padding-bottom:4px; }
+  .filter-bar::-webkit-scrollbar { display:none; }
+  .session-pill { flex-shrink:0; }
+  table { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  th, td { padding:8px 8px; font-size:0.8rem; white-space:nowrap; }
+  th:first-child, td:first-child { position:sticky; left:0; background:var(--bg); z-index:1; }
+  .vote-names-grid { grid-template-columns:1fr 1fr; }
+  .session-attendees { grid-template-columns:1fr; }
+  .speaker-name { min-width:100px; font-size:0.8rem; }
+  .profiles-grid { grid-template-columns:1fr; }
+  .similarity-pair { font-size:0.8rem; gap:8px; }
+  .section h2 { font-size:1.1rem; }
+  .chart-wrap { padding:12px; }
+  .pager-btn { padding:4px 8px; font-size:0.8rem; }
+  .uchwala-meta { font-size:0.8rem; }
+  .votes-sess-header { padding:8px 10px; flex-wrap:wrap; }
+  .votes-sess-title { font-size:0.85rem; }
+  .votes-sess-stats { font-size:0.75rem; gap:6px; }
+  .profile-header { gap:12px; }
+  .profile-avatar { width:56px; height:56px; font-size:1.4rem; }
+  .profile-info h2 { font-size:1.3rem; }
+}
+
 </style>
 </head>
 <body>
