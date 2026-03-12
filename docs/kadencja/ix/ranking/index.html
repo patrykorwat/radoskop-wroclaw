@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Radoskop Wrocław — Monitoring głosowań Rady Miejskiej Wrocławia</title>
-<meta name="description" content="Radoskop — otwarte narzędzie monitoringu Rady Miejskiej Wrocławia. Sprawdź frekwencję, głosowania i aktywność radnych na sesjach.">
+<title>Ranking - kadencja 2024-2029 - Radoskop Wrocław</title>
+<meta name="description" content="Ranking Rady Miasta Wrocławia, kadencja 2024-2029.">
 <meta name="keywords" content="Wrocław, rada miasta, radni, głosowania, frekwencja, samorząd, monitoring, transparentność">
 <meta name="author" content="Patryk Orwat">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="canonical" href="https://wroclaw.radoskop.pl/">
+<link rel="canonical" href="https://wroclaw.radoskop.pl/kadencja/ix/ranking/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Radoskop Wrocław — Monitoring głosowań Rady Miejskiej Wrocławia">
-<meta property="og:description" content="Otwarte narzędzie monitoringu Rady Miasta Wrocławia. Frekwencja, głosowania i aktywność radnych.">
-<meta property="og:url" content="https://wroclaw.radoskop.pl/">
+<meta property="og:title" content="Ranking - kadencja 2024-2029 - Radoskop Wrocław">
+<meta property="og:description" content="Ranking Rady Miasta Wrocławia, kadencja 2024-2029.">
+<meta property="og:url" content="https://wroclaw.radoskop.pl/kadencja/ix/ranking/">
 <meta property="og:locale" content="pl_PL">
 <meta property="og:site_name" content="Radoskop Wrocław">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Radoskop Wrocław — Monitoring głosowań Rady Miejskiej Wrocławia">
-<meta name="twitter:description" content="Otwarte narzędzie monitoringu Rady Miasta Wrocławia. Frekwencja, głosowania i aktywność radnych.">
+<meta name="twitter:title" content="Ranking - kadencja 2024-2029 - Radoskop Wrocław">
+<meta name="twitter:description" content="Ranking Rady Miasta Wrocławia, kadencja 2024-2029.">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -199,6 +199,49 @@ a.name-link:hover { text-decoration-color:var(--accent); }
 footer a { text-decoration:underline; text-decoration-color:rgba(79,70,229,0.3); }
 .stats-grid { min-height:90px; }
 header { min-height:80px; }
+
+/* ── Mobile ── */
+@media (max-width: 600px) {
+  .container { padding:12px; }
+  header { padding:20px 0 12px; margin-bottom:16px; }
+  header h1 { font-size:1.5rem; }
+  header div { min-width:0; }
+  .tab-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; gap:4px; padding-bottom:4px; }
+  .tab-bar::-webkit-scrollbar { display:none; }
+  .tab { white-space:nowrap; flex-shrink:0; padding:6px 12px; font-size:0.8rem; }
+  .kadencja-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  .kadencja-btn { flex-shrink:0; padding:6px 12px; font-size:0.8rem; }
+  .stats-grid { grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:8px; }
+  .stat-card { padding:12px; }
+  .stat-card .value { font-size:1.5rem; }
+  .profile-metrics { grid-template-columns:repeat(3, 1fr); gap:8px; }
+  .metric-card { padding:10px 6px; }
+  .metric-card .metric-value { font-size:1.2rem; word-break:break-word; }
+  .metric-card .metric-label { font-size:0.65rem; }
+  .profile-meta { grid-template-columns:1fr; gap:10px; }
+  .filter-bar { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; padding-bottom:4px; }
+  .filter-bar::-webkit-scrollbar { display:none; }
+  .session-pill { flex-shrink:0; }
+  table { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+  th, td { padding:8px 8px; font-size:0.8rem; white-space:nowrap; }
+  th:first-child, td:first-child { position:sticky; left:0; background:var(--bg); z-index:1; }
+  .vote-names-grid { grid-template-columns:1fr 1fr; }
+  .session-attendees { grid-template-columns:1fr; }
+  .speaker-name { min-width:100px; font-size:0.8rem; }
+  .profiles-grid { grid-template-columns:1fr; }
+  .similarity-pair { font-size:0.8rem; gap:8px; }
+  .section h2 { font-size:1.1rem; }
+  .chart-wrap { padding:12px; }
+  .pager-btn { padding:4px 8px; font-size:0.8rem; }
+  .uchwala-meta { font-size:0.8rem; }
+  .votes-sess-header { padding:8px 10px; flex-wrap:wrap; }
+  .votes-sess-title { font-size:0.85rem; }
+  .votes-sess-stats { font-size:0.75rem; gap:6px; }
+  .profile-header { gap:12px; }
+  .profile-avatar { width:56px; height:56px; font-size:1.4rem; }
+  .profile-info h2 { font-size:1.3rem; }
+}
+
 </style>
 </head>
 <body>
@@ -365,6 +408,7 @@ header { min-height:80px; }
     Radoskop — otwarte narzędzie monitoringu samorządu.
     Dane źródłowe: <a href="https://bip.um.wroc.pl/artykuly/769/sesje-rady" target="_blank">BIP Wrocław</a>.
     Kod: <a href="https://github.com/patrykorwat/radoskop-wroclaw" target="_blank">GitHub</a> (AGPL-3.0).
+    <br>Zobacz też: <a href="https://radoskop.pl/">Strona główna</a> · <a href="https://gdansk.radoskop.pl/">Gdańsk</a> · <a href="https://gdynia.radoskop.pl/">Gdynia</a> · <a href="https://sopot.radoskop.pl/">Sopot</a> · <a href="https://warszawa.radoskop.pl/">Warszawa</a> · <a href="https://krakow.radoskop.pl/">Kraków</a> · <a href="https://poznan.radoskop.pl/">Poznań</a>
   </footer>
 </div>
 
