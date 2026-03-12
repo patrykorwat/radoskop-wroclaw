@@ -11,14 +11,35 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 97.3,
-          "votes_za": 380,
+          "votes_za": 376,
           "votes_przeciw": 20,
           "votes_wstrzymal": 6,
           "votes_brak": 27,
           "votes_nieobecny": 0,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 11,
           "rebellions": [
+            {
+              "vote_id": "2025-07-10_001_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
             {
               "vote_id": "2025-09-11_032_000",
               "session": "2025-09-11",
@@ -48,41 +69,6 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_001_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_024_000",
-              "session": "2025-07-10",
-              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_015_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
               "vote_id": "2025-11-20_009_000",
               "session": "2025-11-20",
               "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
@@ -90,11 +76,25 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-11-20_082_000",
+              "vote_id": "2025-11-20_062_000",
               "session": "2025-11-20",
               "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
               "their_vote": "za",
               "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_017_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "przeciw",
+              "club_majority": "za"
             }
           ]
         }
@@ -111,14 +111,21 @@
           "frekwencja": 100.0,
           "aktywnosc": 99.8,
           "zgodnosc_z_klubem": 98.3,
-          "votes_za": 385,
+          "votes_za": 381,
           "votes_przeciw": 24,
           "votes_wstrzymal": 2,
           "votes_brak": 21,
           "votes_nieobecny": 1,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 7,
           "rebellions": [
+            {
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
             {
               "vote_id": "2025-09-11_031_000",
               "session": "2025-09-11",
@@ -127,17 +134,24 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_039_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
-              "their_vote": "za",
+              "vote_id": "2025-11-20_009_000",
+              "session": "2025-11-20",
+              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2026-02-26_009_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
-              "their_vote": "za",
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
@@ -148,24 +162,10 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-11-20_009_000",
-              "session": "2025-11-20",
-              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-20_083_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
-              "their_vote": "wstrzymal_sie",
+              "vote_id": "2026-02-26_009_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
+              "their_vote": "za",
               "club_majority": "przeciw"
             }
           ]
@@ -181,21 +181,56 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 86.4,
-          "zgodnosc_z_klubem": 93.1,
-          "votes_za": 286,
+          "aktywnosc": 86.5,
+          "zgodnosc_z_klubem": 93.0,
+          "votes_za": 284,
           "votes_przeciw": 23,
-          "votes_wstrzymal": 24,
+          "votes_wstrzymal": 23,
           "votes_brak": 41,
-          "votes_nieobecny": 59,
-          "votes_total": 433,
+          "votes_nieobecny": 58,
+          "votes_total": 429,
           "rebellion_count": 23,
           "rebellions": [
             {
-              "vote_id": "2025-09-11_043_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "vote_id": "2025-07-10_010_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_018_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr LXXV/1926/23 RMW w sprawie zasad i",
               "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-07-10_024_000",
+              "session": "2025-07-10",
+              "topic": "Wniosek formalny - reasumpcja głosowania",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-07-10_032_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
@@ -204,6 +239,13 @@
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_043_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
             },
             {
               "vote_id": "2025-10-20_006_000",
@@ -234,53 +276,46 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-07-10_010_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
+              "vote_id": "2025-11-20_012_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
+              "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_018_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr LXXV/1926/23 RMW w sprawie zasad i",
-              "their_vote": "za",
-              "club_majority": "wstrzymal_sie"
+              "vote_id": "2025-11-20_027_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie przyjęcia Strategii Rozwoju Ponadlokalnego Wrocławskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_023_000",
-              "session": "2025-07-10",
-              "topic": "Wniosek formalny - reasumpcja głosowania",
+              "vote_id": "2025-11-20_028_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_024_000",
-              "session": "2025-07-10",
-              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-07-10_031_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
+              "vote_id": "2025-11-20_034_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie wysokości opłat za usunięcie pojazdów z dróg... r. - druk nr",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-07-10_039_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
+              "vote_id": "2025-12-18_017_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             },
             {
-              "vote_id": "2026-02-26_049_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "vote_id": "2025-12-18_024_000",
+              "session": "2025-12-18",
+              "topic": "Wniosek formalny - reasumpcja głosowania",
               "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
+              "club_majority": "za"
             },
             {
               "vote_id": "2026-01-22_000_000",
@@ -293,41 +328,6 @@
               "vote_id": "2026-01-22_001_000",
               "session": "2026-01-22",
               "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 689/26",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_033_000",
-              "session": "2026-01-22",
-              "topic": "3A. Projekt uchwały zmieniającej uchwałę RMW w sprawie budżetu Miasta na 2026 rok -",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_034_000",
-              "session": "2026-01-22",
-              "topic": "3B. Projekt uchwały zmieniającej uchwałę RMW w sprawie przyjęcia wieloletniej prognozy",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_015_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_029_000",
-              "session": "2025-12-18",
-              "topic": "Wniosek formalny - reasumpcja głosowania",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_012_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
@@ -346,14 +346,28 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 98.3,
-          "votes_za": 384,
+          "votes_za": 380,
           "votes_przeciw": 18,
           "votes_wstrzymal": 6,
           "votes_brak": 25,
           "votes_nieobecny": 0,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 7,
           "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
             {
               "vote_id": "2025-09-11_013_000",
               "session": "2025-09-11",
@@ -362,18 +376,18 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "za",
+              "vote_id": "2025-11-20_079_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Komendanta Straży Miejskiej",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-07-10_037_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
+              "vote_id": "2025-12-18_002_000",
+              "session": "2025-12-18",
+              "topic": "II. Głosowanie w sprawie zmiany kolejności punktów porządku obrad - wniosek Klubu",
+              "their_vote": "za",
+              "club_majority": "przeciw"
             },
             {
               "vote_id": "2026-01-22_032_000",
@@ -388,20 +402,6 @@
               "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_002_000",
-              "session": "2025-12-18",
-              "topic": "II. Głosowanie w sprawie zmiany kolejności punktów porządku obrad - wniosek Klubu",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-20_061_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Komendanta Straży Miejskiej",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
             }
           ]
         }
@@ -416,16 +416,23 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 93.1,
-          "zgodnosc_z_klubem": 98.9,
-          "votes_za": 322,
+          "aktywnosc": 93.0,
+          "zgodnosc_z_klubem": 98.8,
+          "votes_za": 318,
           "votes_przeciw": 23,
           "votes_wstrzymal": 4,
           "votes_brak": 54,
           "votes_nieobecny": 30,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 4,
           "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
             {
               "vote_id": "2025-09-11_032_000",
               "session": "2025-09-11",
@@ -434,25 +441,18 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
+              "vote_id": "2025-11-20_062_000",
               "session": "2025-11-20",
               "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
               "their_vote": "za",
               "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             }
           ]
         }
@@ -469,21 +469,14 @@
           "frekwencja": 88.9,
           "aktywnosc": 94.2,
           "zgodnosc_z_klubem": 96.6,
-          "votes_za": 336,
+          "votes_za": 333,
           "votes_przeciw": 17,
-          "votes_wstrzymal": 30,
+          "votes_wstrzymal": 29,
           "votes_brak": 25,
           "votes_nieobecny": 25,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 13,
           "rebellions": [
-            {
-              "vote_id": "2025-10-20_004_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
             {
               "vote_id": "2025-07-10_004_000",
               "session": "2025-07-10",
@@ -513,11 +506,39 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2026-02-26_021_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
+              "vote_id": "2025-10-20_004_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-11-20_012_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_034_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie wysokości opłat za usunięcie pojazdów z dróg... r. - druk nr",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             },
             {
               "vote_id": "2026-01-22_032_000",
@@ -541,32 +562,11 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-11-20_012_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_034_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie wysokości opłat za usunięcie pojazdów z dróg... r. - druk nr",
+              "vote_id": "2026-02-26_021_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_083_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
             }
           ]
         }
@@ -581,14 +581,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 89.8,
+          "aktywnosc": 89.7,
           "zgodnosc_z_klubem": 99.7,
-          "votes_za": 332,
+          "votes_za": 328,
           "votes_przeciw": 23,
           "votes_wstrzymal": 2,
           "votes_brak": 32,
           "votes_nieobecny": 44,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 1,
           "rebellions": [
             {
@@ -612,19 +612,61 @@
           "has_activity_data": false,
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 92.7,
-          "votes_za": 387,
+          "zgodnosc_z_klubem": 92.9,
+          "votes_za": 384,
           "votes_przeciw": 17,
-          "votes_wstrzymal": 22,
+          "votes_wstrzymal": 21,
           "votes_brak": 7,
           "votes_nieobecny": 0,
-          "votes_total": 433,
-          "rebellion_count": 31,
+          "votes_total": 429,
+          "rebellion_count": 30,
           "rebellions": [
             {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "vote_id": "2025-07-10_004_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_013_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_023_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_026_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -713,53 +755,11 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-07-10_004_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_007_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
               "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_013_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_022_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_024_000",
-              "session": "2025-07-10",
-              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_025_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_037_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
+              "club_majority": "przeciw"
             }
           ]
         }
@@ -774,14 +774,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 66.7,
-          "aktywnosc": 62.1,
+          "aktywnosc": 62.5,
           "zgodnosc_z_klubem": 99.6,
-          "votes_za": 239,
+          "votes_za": 238,
           "votes_przeciw": 11,
           "votes_wstrzymal": 4,
           "votes_brak": 15,
-          "votes_nieobecny": 164,
-          "votes_total": 433,
+          "votes_nieobecny": 161,
+          "votes_total": 429,
           "rebellion_count": 1,
           "rebellions": [
             {
@@ -804,58 +804,16 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 96.1,
+          "aktywnosc": 96.0,
           "zgodnosc_z_klubem": 95.2,
-          "votes_za": 365,
+          "votes_za": 361,
           "votes_przeciw": 20,
           "votes_wstrzymal": 13,
           "votes_brak": 18,
           "votes_nieobecny": 17,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 19,
           "rebellions": [
-            {
-              "vote_id": "2025-09-11_012_000",
-              "session": "2025-09-11",
-              "topic": "Projekt apelu w sprawie pilnej potrzeby reformy rynku nieruchomości - druk nr 455/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-09-11_013_000",
-              "session": "2025-09-11",
-              "topic": "Projekt stanowiska w sprawie poselskiego projektu ustawy zmieniającej ustawę Kodeks",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-09-11_019_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie ograniczenia sprzedaży napojów alkoholowych w godzinach",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-09-11_043_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_023_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_001_000",
               "session": "2025-07-10",
@@ -906,30 +864,72 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_022_000",
+              "vote_id": "2025-07-10_023_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_024_000",
+              "vote_id": "2025-07-10_025_000",
               "session": "2025-07-10",
               "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_025_000",
+              "vote_id": "2025-07-10_026_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_036_000",
+              "vote_id": "2025-07-10_037_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_012_000",
+              "session": "2025-09-11",
+              "topic": "Projekt apelu w sprawie pilnej potrzeby reformy rynku nieruchomości - druk nr 455/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-09-11_013_000",
+              "session": "2025-09-11",
+              "topic": "Projekt stanowiska w sprawie poselskiego projektu ustawy zmieniającej ustawę Kodeks",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-09-11_019_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie ograniczenia sprzedaży napojów alkoholowych w godzinach",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_043_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_006_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_023_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -960,14 +960,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 82.9,
+          "aktywnosc": 82.8,
           "zgodnosc_z_klubem": 99.1,
-          "votes_za": 314,
+          "votes_za": 310,
           "votes_przeciw": 24,
           "votes_wstrzymal": 0,
           "votes_brak": 21,
           "votes_nieobecny": 74,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 3,
           "rebellions": [
             {
@@ -978,16 +978,16 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2026-01-22_075_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
+              "vote_id": "2025-11-20_023_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr LXVIII/1769/23 RMW w sprawie metod",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-11-20_023_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr LXVIII/1769/23 RMW w sprawie metod",
+              "vote_id": "2026-01-22_075_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
               "their_vote": "za",
               "club_majority": "przeciw"
             }
@@ -1006,56 +1006,14 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 95.0,
-          "votes_za": 389,
+          "votes_za": 385,
           "votes_przeciw": 18,
           "votes_wstrzymal": 17,
           "votes_brak": 9,
           "votes_nieobecny": 0,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 21,
           "rebellions": [
-            {
-              "vote_id": "2025-09-11_013_000",
-              "session": "2025-09-11",
-              "topic": "Projekt stanowiska w sprawie poselskiego projektu ustawy zmieniającej ustawę Kodeks",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-09-11_043_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_014_000",
-              "session": "2025-10-20",
-              "topic": "Głosowanie nad poprawką nr 1 Klubu Radnych Prawa i Sprawiedliwości (druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_023_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_029_000",
-              "session": "2025-10-20",
-              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_001_000",
               "session": "2025-07-10",
@@ -1113,39 +1071,81 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_022_000",
+              "vote_id": "2025-07-10_023_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_024_000",
+              "vote_id": "2025-07-10_025_000",
               "session": "2025-07-10",
               "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_025_000",
+              "vote_id": "2025-07-10_026_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_036_000",
+              "vote_id": "2025-07-10_037_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_039_000",
+              "vote_id": "2025-07-10_040_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-09-11_013_000",
+              "session": "2025-09-11",
+              "topic": "Projekt stanowiska w sprawie poselskiego projektu ustawy zmieniającej ustawę Kodeks",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-09-11_043_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_006_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_014_000",
+              "session": "2025-10-20",
+              "topic": "Głosowanie nad poprawką nr 1 Klubu Radnych Prawa i Sprawiedliwości (druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_023_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-10-20_029_000",
+              "session": "2025-10-20",
+              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             },
             {
               "vote_id": "2025-11-20_023_000",
@@ -1167,14 +1167,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 65.6,
+          "aktywnosc": 65.7,
           "zgodnosc_z_klubem": 98.0,
-          "votes_za": 181,
+          "votes_za": 180,
           "votes_przeciw": 13,
           "votes_wstrzymal": 3,
-          "votes_brak": 87,
-          "votes_nieobecny": 149,
-          "votes_total": 433,
+          "votes_brak": 86,
+          "votes_nieobecny": 147,
+          "votes_total": 429,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -1192,18 +1192,18 @@
               "club_majority": "za"
             },
             {
+              "vote_id": "2025-12-18_017_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2026-02-26_009_000",
               "session": "2026-02-26",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_015_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
             }
           ]
         }
@@ -1220,21 +1220,14 @@
           "frekwencja": 100.0,
           "aktywnosc": 96.3,
           "zgodnosc_z_klubem": 98.3,
-          "votes_za": 381,
+          "votes_za": 377,
           "votes_przeciw": 22,
           "votes_wstrzymal": 5,
           "votes_brak": 9,
           "votes_nieobecny": 16,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 7,
           "rebellions": [
-            {
-              "vote_id": "2025-09-11_032_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 464/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_002_000",
               "session": "2025-07-10",
@@ -1243,11 +1236,39 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-07-10_037_000",
+              "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_032_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 464/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_030_000",
+              "session": "2025-12-18",
+              "topic": "Projekt apelu do Prezydenta Wrocławia Jacka Sutryka o podjęcie decyzji o zrzeczeniu",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
             },
             {
               "vote_id": "2026-01-22_048_000",
@@ -1255,27 +1276,6 @@
               "topic": "Projekt uchwały w sprawie zamiaru likwidacji Przedszkola nr 52 Gołąbki Pocztowe we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_022_000",
-              "session": "2025-12-18",
-              "topic": "Projekt apelu do Prezydenta Wrocławia Jacka Sutryka o podjęcie decyzji o zrzeczeniu",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
-              "their_vote": "za",
-              "club_majority": "przeciw"
             }
           ]
         }
@@ -1291,14 +1291,14 @@
           "has_activity_data": false,
           "frekwencja": 100.0,
           "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 85.1,
-          "votes_za": 374,
+          "zgodnosc_z_klubem": 85.2,
+          "votes_za": 371,
           "votes_przeciw": 21,
-          "votes_wstrzymal": 29,
+          "votes_wstrzymal": 28,
           "votes_brak": 8,
           "votes_nieobecny": 1,
-          "votes_total": 433,
-          "rebellion_count": 63,
+          "votes_total": 429,
+          "rebellion_count": 62,
           "rebellions": [
             {
               "vote_id": "2025-06-12_003_000",
@@ -1308,11 +1308,88 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
+              "vote_id": "2025-07-10_001_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_002_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 435/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_003_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 436/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_004_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_005_000",
+              "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_006_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_023_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_032_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-09-11_010_000",
@@ -1362,48 +1439,36 @@
               "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
               "their_vote": "za",
               "club_majority": "przeciw"
-            },
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Jakub Nowotarski",
+      "slug": "jakub-nowotarski",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 99.1,
+          "zgodnosc_z_klubem": 84.6,
+          "votes_za": 338,
+          "votes_przeciw": 23,
+          "votes_wstrzymal": 28,
+          "votes_brak": 36,
+          "votes_nieobecny": 4,
+          "votes_total": 429,
+          "rebellion_count": 60,
+          "rebellions": [
             {
-              "vote_id": "2025-10-20_004_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
-              "their_vote": "przeciw",
+              "vote_id": "2025-06-12_003_000",
+              "session": "2025-06-12",
+              "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_023_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_024_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_025_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_037_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "za",
-              "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-07-10_001_000",
@@ -1427,55 +1492,67 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-07-10_004_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
               "vote_id": "2025-07-10_005_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Jakub Nowotarski",
-      "slug": "jakub-nowotarski",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 99.1,
-          "zgodnosc_z_klubem": 84.5,
-          "votes_za": 341,
-          "votes_przeciw": 23,
-          "votes_wstrzymal": 29,
-          "votes_brak": 36,
-          "votes_nieobecny": 4,
-          "votes_total": 433,
-          "rebellion_count": 61,
-          "rebellions": [
+            },
             {
-              "vote_id": "2025-06-12_003_000",
-              "session": "2025-06-12",
-              "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
+              "vote_id": "2025-07-10_006_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_023_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_024_000",
+              "session": "2025-07-10",
+              "topic": "Wniosek formalny - reasumpcja głosowania",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_032_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-09-11_010_000",
@@ -1525,83 +1602,6 @@
               "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
               "their_vote": "przeciw",
               "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_005_000",
-              "session": "2025-10-20",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 526/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_023_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_024_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_025_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_037_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_001_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_002_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 435/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_003_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 436/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_005_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_006_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
             }
           ]
         }
@@ -1618,12 +1618,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 98.8,
           "zgodnosc_z_klubem": 99.2,
-          "votes_za": 361,
+          "votes_za": 357,
           "votes_przeciw": 19,
           "votes_wstrzymal": 0,
           "votes_brak": 48,
           "votes_nieobecny": 5,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 3,
           "rebellions": [
             {
@@ -1660,20 +1660,90 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 89.4,
-          "zgodnosc_z_klubem": 94.1,
-          "votes_za": 323,
+          "aktywnosc": 89.3,
+          "zgodnosc_z_klubem": 94.3,
+          "votes_za": 320,
           "votes_przeciw": 17,
-          "votes_wstrzymal": 15,
+          "votes_wstrzymal": 14,
           "votes_brak": 32,
           "votes_nieobecny": 46,
-          "votes_total": 433,
-          "rebellion_count": 21,
+          "votes_total": 429,
+          "rebellion_count": 20,
           "rebellions": [
             {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
+              "vote_id": "2025-07-10_001_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_004_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_005_000",
+              "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_006_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_013_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_023_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_026_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_032_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -1727,12 +1797,397 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_001_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
-              "their_vote": "za",
+              "vote_id": "2026-01-22_032_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
+              "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
+            {
+              "vote_id": "2026-02-26_009_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Karolina Krzeszowiec",
+      "slug": "karolina-krzeszowiec",
+      "kadencje": {
+        "2024-2029": {
+          "club": "PiS",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 66.7,
+          "aktywnosc": 73.9,
+          "zgodnosc_z_klubem": 96.7,
+          "votes_za": 258,
+          "votes_przeciw": 12,
+          "votes_wstrzymal": 29,
+          "votes_brak": 18,
+          "votes_nieobecny": 35,
+          "votes_total": 429,
+          "rebellion_count": 10,
+          "rebellions": [
+            {
+              "vote_id": "2025-09-11_046_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora Powiatowego Urzędu",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-10-20_004_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_029_000",
+              "session": "2025-10-20",
+              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-10-20_038_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_017_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_021_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_000_000",
+              "session": "2026-01-22",
+              "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 688/26",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_001_000",
+              "session": "2026-01-22",
+              "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 689/26",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_033_000",
+              "session": "2026-01-22",
+              "topic": "3A. Projekt uchwały zmieniającej uchwałę RMW w sprawie budżetu Miasta na 2026 rok -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_034_000",
+              "session": "2026-01-22",
+              "topic": "3B. Projekt uchwały zmieniającej uchwałę RMW w sprawie przyjęcia wieloletniej prognozy",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Karolina Mrozowska",
+      "slug": "karolina-mrozowska",
+      "kadencje": {
+        "2024-2029": {
+          "club": "PiS",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 22.2,
+          "aktywnosc": 17.7,
+          "zgodnosc_z_klubem": 94.4,
+          "votes_za": 60,
+          "votes_przeciw": 3,
+          "votes_wstrzymal": 8,
+          "votes_brak": 5,
+          "votes_nieobecny": 10,
+          "votes_total": 429,
+          "rebellion_count": 4,
+          "rebellions": [
+            {
+              "vote_id": "2025-07-10_004_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_010_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_017_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie zasad przeznaczania do sprzedaży nieruchomości",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_025_000",
+              "session": "2025-07-10",
+              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Krzysztof Zalewski",
+      "slug": "krzysztof-zalewski",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 94.6,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 366,
+          "votes_przeciw": 19,
+          "votes_wstrzymal": 5,
+          "votes_brak": 16,
+          "votes_nieobecny": 23,
+          "votes_total": 429,
+          "rebellion_count": 6,
+          "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-10-20_006_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_028_000",
+              "session": "2025-12-18",
+              "topic": "Projekt stanowiska w sprawie umożliwienia Urzędom Stanu Cywilnego transkrypcji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_030_000",
+              "session": "2025-12-18",
+              "topic": "Projekt apelu do Prezydenta Wrocławia Jacka Sutryka o podjęcie decyzji o zrzeczeniu",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Maciej Zieliński",
+      "slug": "maciej-zielinski",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 87.2,
+          "zgodnosc_z_klubem": 99.1,
+          "votes_za": 309,
+          "votes_przeciw": 22,
+          "votes_wstrzymal": 1,
+          "votes_brak": 42,
+          "votes_nieobecny": 55,
+          "votes_total": 429,
+          "rebellion_count": 3,
+          "rebellions": [
+            {
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_009_000",
+              "session": "2025-11-20",
+              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_028_000",
+              "session": "2025-12-18",
+              "topic": "Projekt stanowiska w sprawie umożliwienia Urzędom Stanu Cywilnego transkrypcji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Magdalena Razik-Trziszka",
+      "slug": "magdalena-razik-trziszka",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 100.0,
+          "aktywnosc": 77.6,
+          "zgodnosc_z_klubem": 98.7,
+          "votes_za": 284,
+          "votes_przeciw": 20,
+          "votes_wstrzymal": 1,
+          "votes_brak": 28,
+          "votes_nieobecny": 96,
+          "votes_total": 429,
+          "rebellion_count": 4,
+          "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_009_000",
+              "session": "2025-11-20",
+              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Martyna Stachowiak",
+      "slug": "martyna-stachowiak",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 100.0,
+          "aktywnosc": 99.5,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 387,
+          "votes_przeciw": 29,
+          "votes_wstrzymal": 0,
+          "votes_brak": 11,
+          "votes_nieobecny": 2,
+          "votes_total": 429,
+          "rebellion_count": 4,
+          "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_009_000",
+              "session": "2025-11-20",
+              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_075_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Marzena Bogusz",
+      "slug": "marzena-bogusz",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 87.6,
+          "zgodnosc_z_klubem": 95.1,
+          "votes_za": 312,
+          "votes_przeciw": 21,
+          "votes_wstrzymal": 13,
+          "votes_brak": 30,
+          "votes_nieobecny": 53,
+          "votes_total": 429,
+          "rebellion_count": 17,
+          "rebellions": [
             {
               "vote_id": "2025-07-10_004_000",
               "session": "2025-07-10",
@@ -1769,429 +2224,30 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_022_000",
+              "vote_id": "2025-07-10_023_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_024_000",
+              "vote_id": "2025-07-10_025_000",
               "session": "2025-07-10",
               "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_025_000",
+              "vote_id": "2025-07-10_026_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_031_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozwiązania RO Zacisze-Zalesie-Szczytniki - druk nr 420/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_037_000",
+              "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-02-26_009_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Karolina Krzeszowiec",
-      "slug": "karolina-krzeszowiec",
-      "kadencje": {
-        "2024-2029": {
-          "club": "PiS",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 66.7,
-          "aktywnosc": 73.7,
-          "zgodnosc_z_klubem": 96.7,
-          "votes_za": 259,
-          "votes_przeciw": 12,
-          "votes_wstrzymal": 30,
-          "votes_brak": 18,
-          "votes_nieobecny": 35,
-          "votes_total": 433,
-          "rebellion_count": 10,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_046_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora Powiatowego Urzędu",
-              "their_vote": "za",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-10-20_004_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_029_000",
-              "session": "2025-10-20",
-              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_038_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2026-01-22_000_000",
-              "session": "2026-01-22",
-              "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 688/26",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_001_000",
-              "session": "2026-01-22",
-              "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 689/26",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_033_000",
-              "session": "2026-01-22",
-              "topic": "3A. Projekt uchwały zmieniającej uchwałę RMW w sprawie budżetu Miasta na 2026 rok -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_034_000",
-              "session": "2026-01-22",
-              "topic": "3B. Projekt uchwały zmieniającej uchwałę RMW w sprawie przyjęcia wieloletniej prognozy",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_015_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_024_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Karolina Mrozowska",
-      "slug": "karolina-mrozowska",
-      "kadencje": {
-        "2024-2029": {
-          "club": "PiS",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 22.2,
-          "aktywnosc": 18.0,
-          "zgodnosc_z_klubem": 94.5,
-          "votes_za": 62,
-          "votes_przeciw": 3,
-          "votes_wstrzymal": 8,
-          "votes_brak": 5,
-          "votes_nieobecny": 10,
-          "votes_total": 433,
-          "rebellion_count": 4,
-          "rebellions": [
-            {
-              "vote_id": "2025-07-10_004_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_010_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_017_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie zasad przeznaczania do sprzedaży nieruchomości",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_024_000",
-              "session": "2025-07-10",
-              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Krzysztof Zalewski",
-      "slug": "krzysztof-zalewski",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 94.7,
-          "zgodnosc_z_klubem": 98.5,
-          "votes_za": 370,
-          "votes_przeciw": 19,
-          "votes_wstrzymal": 5,
-          "votes_brak": 16,
-          "votes_nieobecny": 23,
-          "votes_total": 433,
-          "rebellion_count": 6,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_021_000",
-              "session": "2025-12-18",
-              "topic": "Projekt stanowiska w sprawie umożliwienia Urzędom Stanu Cywilnego transkrypcji",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_022_000",
-              "session": "2025-12-18",
-              "topic": "Projekt apelu do Prezydenta Wrocławia Jacka Sutryka o podjęcie decyzji o zrzeczeniu",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Maciej Zieliński",
-      "slug": "maciej-zielinski",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 87.1,
-          "zgodnosc_z_klubem": 99.1,
-          "votes_za": 312,
-          "votes_przeciw": 22,
-          "votes_wstrzymal": 1,
-          "votes_brak": 42,
-          "votes_nieobecny": 56,
-          "votes_total": 433,
-          "rebellion_count": 3,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_021_000",
-              "session": "2025-12-18",
-              "topic": "Projekt stanowiska w sprawie umożliwienia Urzędom Stanu Cywilnego transkrypcji",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_009_000",
-              "session": "2025-11-20",
-              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Magdalena Razik-Trziszka",
-      "slug": "magdalena-razik-trziszka",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 100.0,
-          "aktywnosc": 77.8,
-          "zgodnosc_z_klubem": 98.7,
-          "votes_za": 288,
-          "votes_przeciw": 20,
-          "votes_wstrzymal": 1,
-          "votes_brak": 28,
-          "votes_nieobecny": 96,
-          "votes_total": 433,
-          "rebellion_count": 4,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_009_000",
-              "session": "2025-11-20",
-              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_083_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Martyna Stachowiak",
-      "slug": "martyna-stachowiak",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 100.0,
-          "aktywnosc": 99.5,
-          "zgodnosc_z_klubem": 99.0,
-          "votes_za": 391,
-          "votes_przeciw": 29,
-          "votes_wstrzymal": 0,
-          "votes_brak": 11,
-          "votes_nieobecny": 2,
-          "votes_total": 433,
-          "rebellion_count": 4,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_075_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-20_009_000",
-              "session": "2025-11-20",
-              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Marzena Bogusz",
-      "slug": "marzena-bogusz",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 87.5,
-          "zgodnosc_z_klubem": 94.8,
-          "votes_za": 314,
-          "votes_przeciw": 21,
-          "votes_wstrzymal": 14,
-          "votes_brak": 30,
-          "votes_nieobecny": 54,
-          "votes_total": 433,
-          "rebellion_count": 18,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -2238,6 +2294,43 @@
               "club_majority": "za"
             },
             {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_032_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mateusz Żak",
+      "slug": "mateusz-zak",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 99.8,
+          "zgodnosc_z_klubem": 94.9,
+          "votes_za": 376,
+          "votes_przeciw": 23,
+          "votes_wstrzymal": 15,
+          "votes_brak": 14,
+          "votes_nieobecny": 1,
+          "votes_total": 429,
+          "rebellion_count": 21,
+          "rebellions": [
+            {
               "vote_id": "2025-07-10_004_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
@@ -2266,6 +2359,13 @@
               "club_majority": "za"
             },
             {
+              "vote_id": "2025-07-10_010_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2025-07-10_013_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
@@ -2273,76 +2373,39 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_022_000",
+              "vote_id": "2025-07-10_023_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_024_000",
+              "vote_id": "2025-07-10_025_000",
               "session": "2025-07-10",
               "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_025_000",
+              "vote_id": "2025-07-10_037_000",
               "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Konduktorskiej we",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_037_000",
+              "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2026-01-22_032_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Mateusz Żak",
-      "slug": "mateusz-zak",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 94.7,
-          "votes_za": 379,
-          "votes_przeciw": 23,
-          "votes_wstrzymal": 16,
-          "votes_brak": 14,
-          "votes_nieobecny": 1,
-          "votes_total": 433,
-          "rebellion_count": 22,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
             },
             {
               "vote_id": "2025-09-11_010_000",
@@ -2387,91 +2450,21 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_004_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_005_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_006_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_007_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_010_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia Miejskiego Planu Adaptacji dla",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_013_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_022_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_024_000",
-              "session": "2025-07-10",
-              "topic": "Głosowanie za nieuwzględnieniem uwagi - druk nr 447/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_037_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_039_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2026-01-22_040_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie zgody na odstąpienie od obowiązku przetargowego trybu",
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
               "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
+              "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-12-18_026_000",
+              "vote_id": "2025-12-18_025_000",
               "session": "2025-12-18",
               "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
               "their_vote": "przeciw",
@@ -2490,51 +2483,16 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 85.9,
+          "aktywnosc": 85.8,
           "zgodnosc_z_klubem": 95.1,
-          "votes_za": 305,
+          "votes_za": 302,
           "votes_przeciw": 10,
-          "votes_wstrzymal": 33,
+          "votes_wstrzymal": 32,
           "votes_brak": 24,
           "votes_nieobecny": 61,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 17,
           "rebellions": [
-            {
-              "vote_id": "2025-09-11_032_000",
-              "session": "2025-09-11",
-              "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 464/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_004_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_006_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
-              "their_vote": "za",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-10-20_029_000",
-              "session": "2025-10-20",
-              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_038_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
             {
               "vote_id": "2025-07-10_004_000",
               "session": "2025-07-10",
@@ -2571,6 +2529,62 @@
               "club_majority": "wstrzymal_sie"
             },
             {
+              "vote_id": "2025-09-11_032_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 464/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-10-20_004_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie uchwalenia Strategii Rozwoju Wrocławia „Wrocław 2050” -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-10-20_006_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-10-20_029_000",
+              "session": "2025-10-20",
+              "topic": "22A.  Projekt uchwały zmieniającej uchwałę nr XXIII/435/25 RMW w sprawie ograniczenia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-10-20_038_000",
+              "session": "2025-10-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-11-20_012_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_079_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Komendanta Straży Miejskiej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_020_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2026-01-22_000_000",
               "session": "2026-01-22",
               "topic": "II. Głosowanie nad wprowadzeniem projektu uchwały - druk 688/26",
@@ -2597,27 +2611,6 @@
               "topic": "3B. Projekt uchwały zmieniającej uchwałę RMW w sprawie przyjęcia wieloletniej prognozy",
               "their_vote": "przeciw",
               "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_017_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_012_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_061_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Komendanta Straży Miejskiej",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
             }
           ]
         }
@@ -2632,15 +2625,15 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 87.3,
-          "zgodnosc_z_klubem": 81.1,
-          "votes_za": 274,
+          "aktywnosc": 87.4,
+          "zgodnosc_z_klubem": 81.2,
+          "votes_za": 272,
           "votes_przeciw": 21,
-          "votes_wstrzymal": 28,
+          "votes_wstrzymal": 27,
           "votes_brak": 55,
-          "votes_nieobecny": 55,
-          "votes_total": 433,
-          "rebellion_count": 61,
+          "votes_nieobecny": 54,
+          "votes_total": 429,
+          "rebellion_count": 60,
           "rebellions": [
             {
               "vote_id": "2025-06-12_003_000",
@@ -2650,11 +2643,67 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-11_009_000",
-              "session": "2025-09-11",
+              "vote_id": "2025-07-10_001_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_002_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 435/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_003_000",
+              "session": "2025-07-10",
+              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 436/25",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-07-10_004_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr II/5/24 RMW w sprawie zatwierdzenia wyboru",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_005_000",
+              "session": "2025-07-10",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_006_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_038_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_040_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
             },
             {
               "vote_id": "2025-09-11_010_000",
@@ -2725,62 +2774,6 @@
               "topic": "Głosowanie nad poprawką nr 2 Klubu Radnych Prawa i Sprawiedliwości (druk nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_016_000",
-              "session": "2025-10-20",
-              "topic": "Głosowanie nad poprawką nr 3 Klubu Radnych Prawa i Sprawiedliwości (druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_017_000",
-              "session": "2025-10-20",
-              "topic": "Głosowanie nad poprawką nr 4 Klubu Radnych Prawa i Sprawiedliwości (druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-10-20_023_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały w sprawie wieloletniego programu gospodarowania mieszkaniowym",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_024_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-10-20_025_000",
-              "session": "2025-10-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_001_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 434/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_002_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 435/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-07-10_003_000",
-              "session": "2025-07-10",
-              "topic": "II. Głosowanie nad wycofaniem projektu - druk nr 436/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
             }
           ]
         }
@@ -2795,36 +2788,29 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 98.2,
+          "aktywnosc": 98.1,
           "zgodnosc_z_klubem": 98.8,
-          "votes_za": 380,
+          "votes_za": 376,
           "votes_przeciw": 29,
           "votes_wstrzymal": 1,
           "votes_brak": 15,
           "votes_nieobecny": 8,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 5,
           "rebellions": [
             {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
+              "vote_id": "2025-07-10_037_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2026-01-22_075_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
-              "their_vote": "za",
-              "club_majority": "przeciw"
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
             },
             {
               "vote_id": "2025-11-20_009_000",
@@ -2834,11 +2820,18 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-11-20_085_000",
+              "vote_id": "2025-11-20_036_000",
               "session": "2025-11-20",
               "topic": "Wniosek formalny - o przeniesienie do II czytania - druk nr 576/25",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_075_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
+              "their_vote": "za",
+              "club_majority": "przeciw"
             }
           ]
         }
@@ -2855,12 +2848,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 99.5,
-          "votes_za": 387,
+          "votes_za": 383,
           "votes_przeciw": 25,
           "votes_wstrzymal": 2,
           "votes_brak": 19,
           "votes_nieobecny": 0,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 2,
           "rebellions": [
             {
@@ -2890,14 +2883,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 83.8,
+          "aktywnosc": 83.9,
           "zgodnosc_z_klubem": 95.3,
-          "votes_za": 302,
+          "votes_za": 300,
           "votes_przeciw": 20,
           "votes_wstrzymal": 18,
-          "votes_brak": 23,
-          "votes_nieobecny": 70,
-          "votes_total": 433,
+          "votes_brak": 22,
+          "votes_nieobecny": 69,
+          "votes_total": 429,
           "rebellion_count": 16,
           "rebellions": [
             {
@@ -2943,41 +2936,6 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2026-02-26_012_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie opłaty za pobyt we Wrocławskim Ośrodku Pomocy Osobom",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-02-26_021_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
-              "their_vote": "za",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2026-02-26_049_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2026-01-22_076_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie zmiany koncepcji",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_008_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr VI/91/24 RMW w sprawie przystąpienia do",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
               "vote_id": "2025-11-20_013_000",
               "session": "2025-11-20",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
@@ -2999,17 +2957,52 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-11-20_063_000",
+              "vote_id": "2025-11-20_081_000",
               "session": "2025-11-20",
               "topic": "Projekt uchwały w sprawie rozpatrzenia petycji przeciwko budowie ul. Libańskiej... -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-11-20_066_000",
+              "vote_id": "2025-11-20_085_000",
               "session": "2025-11-20",
               "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie podjęcia uchwały",
               "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-12-18_010_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr VI/91/24 RMW w sprawie przystąpienia do",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_076_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie zmiany koncepcji",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-02-26_012_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały w sprawie opłaty za pobyt we Wrocławskim Ośrodku Pomocy Osobom",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-02-26_021_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
+              "their_vote": "za",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2026-02-26_050_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             }
           ]
@@ -3025,14 +3018,14 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 88.9,
-          "aktywnosc": 88.5,
+          "aktywnosc": 88.6,
           "zgodnosc_z_klubem": 98.6,
-          "votes_za": 327,
+          "votes_za": 324,
           "votes_przeciw": 25,
           "votes_wstrzymal": 4,
           "votes_brak": 27,
-          "votes_nieobecny": 50,
-          "votes_total": 433,
+          "votes_nieobecny": 49,
+          "votes_total": 429,
           "rebellion_count": 5,
           "rebellions": [
             {
@@ -3043,9 +3036,9 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2026-02-26_011_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały w sprawie pomocy rzeczowej dla Powiatu Wrocławskiego w zakresie",
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -3064,9 +3057,9 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "vote_id": "2026-02-26_011_000",
+              "session": "2026-02-26",
+              "topic": "Projekt uchwały w sprawie pomocy rzeczowej dla Powiatu Wrocławskiego w zakresie",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
@@ -3083,20 +3076,34 @@
           "has_voting_data": true,
           "has_activity_data": false,
           "frekwencja": 100.0,
-          "aktywnosc": 91.0,
+          "aktywnosc": 90.9,
           "zgodnosc_z_klubem": 97.8,
-          "votes_za": 344,
+          "votes_za": 340,
           "votes_przeciw": 21,
           "votes_wstrzymal": 4,
           "votes_brak": 25,
           "votes_nieobecny": 39,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 8,
           "rebellions": [
             {
               "vote_id": "2025-06-12_017_000",
               "session": "2025-06-12",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulic Kleczkowskiej... - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-08-11_000_000",
+              "session": "2025-08-11",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -3108,34 +3115,6 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-08-11_000_000",
-              "session": "2025-08-11",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi do WSA we Wrocławiu na uchwałę nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_075_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
-              "their_vote": "za",
-              "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
               "vote_id": "2025-11-20_023_000",
               "session": "2025-11-20",
               "topic": "Projekt uchwały zmieniającej uchwałę nr LXVIII/1769/23 RMW w sprawie metod",
@@ -3143,9 +3122,23 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-11-20_082_000",
+              "vote_id": "2025-11-20_062_000",
               "session": "2025-11-20",
               "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "za",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_075_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku o ustanowienie drzewa pomnikiem",
               "their_vote": "za",
               "club_majority": "przeciw"
             }
@@ -3164,12 +3157,12 @@
           "frekwencja": 88.9,
           "aktywnosc": 97.0,
           "zgodnosc_z_klubem": 99.5,
-          "votes_za": 369,
+          "votes_za": 365,
           "votes_przeciw": 28,
           "votes_wstrzymal": 1,
           "votes_brak": 22,
           "votes_nieobecny": 13,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 2,
           "rebellions": [
             {
@@ -3180,7 +3173,7 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-12-18_026_000",
+              "vote_id": "2025-12-18_025_000",
               "session": "2025-12-18",
               "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
               "their_vote": "wstrzymal_sie",
@@ -3200,15 +3193,50 @@
           "has_activity_data": false,
           "frekwencja": 88.9,
           "aktywnosc": 93.5,
-          "zgodnosc_z_klubem": 93.2,
-          "votes_za": 289,
+          "zgodnosc_z_klubem": 93.1,
+          "votes_za": 286,
           "votes_przeciw": 22,
-          "votes_wstrzymal": 28,
+          "votes_wstrzymal": 27,
           "votes_brak": 66,
           "votes_nieobecny": 28,
-          "votes_total": 433,
+          "votes_total": 429,
           "rebellion_count": 23,
           "rebellions": [
+            {
+              "vote_id": "2025-07-10_007_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-07-10_013_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_016_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XLIX/697/98 RMW w sprawie zasad",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_017_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie zasad przeznaczania do sprzedaży nieruchomości",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_018_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr LXXV/1926/23 RMW w sprawie zasad i",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
             {
               "vote_id": "2025-09-11_012_000",
               "session": "2025-09-11",
@@ -3266,6 +3294,129 @@
               "club_majority": "przeciw"
             },
             {
+              "vote_id": "2025-11-20_012_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_027_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie przyjęcia Strategii Rozwoju Ponadlokalnego Wrocławskiego",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_062_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_063_000",
+              "session": "2025-11-20",
+              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_075_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-11-20_079_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Komendanta Straży Miejskiej",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-12-18_018_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tadeusz Grabarek",
+      "slug": "tadeusz-grabarek",
+      "kadencje": {
+        "2024-2029": {
+          "club": "KO",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 84.4,
+          "zgodnosc_z_klubem": 98.7,
+          "votes_za": 283,
+          "votes_przeciw": 21,
+          "votes_wstrzymal": 0,
+          "votes_brak": 58,
+          "votes_nieobecny": 67,
+          "votes_total": 429,
+          "rebellion_count": 4,
+          "rebellions": [
+            {
+              "vote_id": "2025-07-10_037_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_031_000",
+              "session": "2025-09-11",
+              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_038_000",
+              "session": "2025-09-11",
+              "topic": "26C.  Projekt uchwały w sprawie stwierdzenia wygaśnięcia mandatu radnej RO Osobowice-",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_009_000",
+              "session": "2025-11-20",
+              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
+              "their_vote": "przeciw",
+              "club_majority": "za"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Łukasz Kasztelowicz",
+      "slug": "lukasz-kasztelowicz",
+      "kadencje": {
+        "2024-2029": {
+          "club": "PiS",
+          "has_voting_data": true,
+          "has_activity_data": false,
+          "frekwencja": 88.9,
+          "aktywnosc": 96.3,
+          "zgodnosc_z_klubem": 95.2,
+          "votes_za": 315,
+          "votes_przeciw": 27,
+          "votes_wstrzymal": 32,
+          "votes_brak": 39,
+          "votes_nieobecny": 16,
+          "votes_total": 429,
+          "rebellion_count": 18,
+          "rebellions": [
+            {
               "vote_id": "2025-07-10_007_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
@@ -3301,128 +3452,12 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2026-01-22_033_000",
-              "session": "2026-01-22",
-              "topic": "3A. Projekt uchwały zmieniającej uchwałę RMW w sprawie budżetu Miasta na 2026 rok -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_034_000",
-              "session": "2026-01-22",
-              "topic": "3B. Projekt uchwały zmieniającej uchwałę RMW w sprawie przyjęcia wieloletniej prognozy",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_023_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_024_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_012_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_027_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie przyjęcia Strategii Rozwoju Ponadlokalnego Wrocławskiego",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-11-20_057_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Tadeusz Grabarek",
-      "slug": "tadeusz-grabarek",
-      "kadencje": {
-        "2024-2029": {
-          "club": "KO",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 84.3,
-          "zgodnosc_z_klubem": 98.7,
-          "votes_za": 286,
-          "votes_przeciw": 21,
-          "votes_wstrzymal": 0,
-          "votes_brak": 58,
-          "votes_nieobecny": 68,
-          "votes_total": 433,
-          "rebellion_count": 4,
-          "rebellions": [
-            {
-              "vote_id": "2025-09-11_031_000",
-              "session": "2025-09-11",
-              "topic": "Głosowanie w sprawie skierowania projektu do II czytania - druk nr 464/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-09-11_038_000",
-              "session": "2025-09-11",
-              "topic": "26C.  Projekt uchwały w sprawie stwierdzenia wygaśnięcia mandatu radnej RO Osobowice-",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_036_000",
+              "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
-            {
-              "vote_id": "2025-11-20_009_000",
-              "session": "2025-11-20",
-              "topic": "II. Głosowanie nad wycofaniem - druk nr 544/25 i druk nr 584/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Łukasz Kasztelowicz",
-      "slug": "lukasz-kasztelowicz",
-      "kadencje": {
-        "2024-2029": {
-          "club": "PiS",
-          "has_voting_data": true,
-          "has_activity_data": false,
-          "frekwencja": 88.9,
-          "aktywnosc": 96.3,
-          "zgodnosc_z_klubem": 95.2,
-          "votes_za": 317,
-          "votes_przeciw": 27,
-          "votes_wstrzymal": 33,
-          "votes_brak": 40,
-          "votes_nieobecny": 16,
-          "votes_total": 433,
-          "rebellion_count": 18,
-          "rebellions": [
             {
               "vote_id": "2025-09-11_019_000",
               "session": "2025-09-11",
@@ -3459,69 +3494,6 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-07-10_007_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie ustalenia kierunków działania Prezydenta Wrocławia w roku",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-07-10_013_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/712/20 RMW w sprawie ustalenia strefy",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_016_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XLIX/697/98 RMW w sprawie zasad",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_017_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie zasad przeznaczania do sprzedaży nieruchomości",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_018_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr LXXV/1926/23 RMW w sprawie zasad i",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-07-10_037_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2026-01-22_032_000",
-              "session": "2026-01-22",
-              "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_023_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_024_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
               "vote_id": "2025-11-20_027_000",
               "session": "2025-11-20",
               "topic": "Projekt uchwały w sprawie przyjęcia Strategii Rozwoju Ponadlokalnego Wrocławskiego",
@@ -3529,23 +3501,44 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-11-20_057_000",
-              "session": "2025-11-20",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "przeciw",
-              "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-11-20_082_000",
+              "vote_id": "2025-11-20_062_000",
               "session": "2025-11-20",
               "topic": "Głosowanie w sprawie powołania radnego J. Janasa do składu Komisji Budżetu,",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-11-20_083_000",
+              "vote_id": "2025-11-20_063_000",
               "session": "2025-11-20",
               "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-11-20_075_000",
+              "session": "2025-11-20",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "przeciw",
+              "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-12-18_018_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_021_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora MOPS we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2026-01-22_032_000",
+              "session": "2026-01-22",
+              "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             }
@@ -3564,12 +3557,12 @@
           "frekwencja": 66.7,
           "aktywnosc": 73.7,
           "zgodnosc_z_klubem": 97.4,
-          "votes_za": 275,
+          "votes_za": 272,
           "votes_przeciw": 14,
           "votes_wstrzymal": 24,
           "votes_brak": 6,
-          "votes_nieobecny": 114,
-          "votes_total": 433,
+          "votes_nieobecny": 113,
+          "votes_total": 429,
           "rebellion_count": 8,
           "rebellions": [
             {
@@ -3587,16 +3580,9 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-07-10_022_000",
+              "vote_id": "2025-07-10_023_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Jastrzębiej we Wrocławiu -",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-07-10_037_000",
-              "session": "2025-07-10",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -3604,22 +3590,15 @@
               "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-07-10_039_000",
+              "session": "2025-07-10",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
-            },
-            {
-              "vote_id": "2025-12-18_015_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
-            {
-              "vote_id": "2025-12-18_026_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
             },
             {
               "vote_id": "2025-11-20_013_000",
@@ -3627,6 +3606,20 @@
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
+            },
+            {
+              "vote_id": "2025-12-18_017_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-12-18_025_000",
+              "session": "2025-12-18",
+              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             }
           ]
         }

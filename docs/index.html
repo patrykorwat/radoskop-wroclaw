@@ -15,30 +15,82 @@
 <meta property="og:url" content="https://wroclaw.radoskop.pl/">
 <meta property="og:locale" content="pl_PL">
 <meta property="og:site_name" content="Radoskop Wrocław">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://wroclaw.radoskop.pl/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Radoskop Wrocław — Monitoring głosowań Rady Miejskiej Wrocławia">
 <meta name="twitter:description" content="Otwarte narzędzie monitoringu Rady Miasta Wrocławia. Frekwencja, głosowania i aktywność radnych.">
+<meta name="twitter:image" content="https://wroclaw.radoskop.pl/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Radoskop Wrocław",
-  "description": "Otwarte narzędzie monitoringu Rady Miasta Wrocławia. Sprawdź frekwencję, głosowania i aktywność radnych na sesjach.",
-  "url": "https://wroclaw.radoskop.pl/",
-  "applicationCategory": "GovernmentApplication",
-  "operatingSystem": "Web",
-  "author": {
-    "@type": "Person",
-    "name": "Patryk Orwat"
-  },
-  "about": {
-    "@type": "GovernmentOrganization",
-    "name": "Rada Miasta Wrocławia",
-    "url": "https://bip.um.wroc.pl/artykuly/769/sesje-rady"
-  },
-  "license": "https://www.gnu.org/licenses/agpl-3.0.html",
-  "isAccessibleForFree": true,
-  "inLanguage": "pl"
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "name": "Radoskop Wrocław",
+      "description": "Radoskop — otwarte narzędzie monitoringu Rady Miejskiej Wrocławia. Sprawdź frekwencję, głosowania i aktywność radnych na sesjach.",
+      "url": "https://wroclaw.radoskop.pl/",
+      "applicationCategory": "GovernmentApplication",
+      "operatingSystem": "Web",
+      "author": {
+        "@type": "Person",
+        "name": "Patryk Orwat",
+        "url": "https://radoskop.pl/"
+      },
+      "about": {
+        "@type": "GovernmentOrganization",
+        "name": "Rada Miasta Wrocławia",
+        "url": "https://bip.um.wroc.pl/artykuly/769/sesje-rady"
+      },
+      "license": "https://www.gnu.org/licenses/agpl-3.0.html",
+      "isAccessibleForFree": true,
+      "inLanguage": "pl",
+      "image": "https://wroclaw.radoskop.pl/og-image.png"
+    },
+    {
+      "@type": "WebSite",
+      "name": "Radoskop Wrocław",
+      "url": "https://wroclaw.radoskop.pl/",
+      "inLanguage": "pl",
+      "publisher": {
+        "@type": "Person",
+        "name": "Patryk Orwat"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "name": "Dane glosowan Rady Miasta Wrocławia",
+      "description": "Otwarte dane o glosowaniach, frekwencji i aktywnosci radnych Rady Miasta Wrocławia.",
+      "url": "https://wroclaw.radoskop.pl/",
+      "license": "https://www.gnu.org/licenses/agpl-3.0.html",
+      "creator": {
+        "@type": "Person",
+        "name": "Patryk Orwat"
+      },
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://wroclaw.radoskop.pl/data.json"
+        }
+      ],
+      "temporalCoverage": "2024-2029",
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "Wrocław",
+        "containedInPlace": {
+          "@type": "Country",
+          "name": "Polska"
+        }
+      },
+      "variableMeasured": [
+        "Frekwencja radnych",
+        "Wyniki glosowan imiennych",
+        "Aktywnosc na sesjach"
+      ]
+    }
+  ]
 }
 </script>
 <!-- No analytics configured -->
