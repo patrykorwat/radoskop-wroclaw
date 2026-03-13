@@ -1083,7 +1083,6 @@ function showProfile(name) {
     });
     const interpKad = interpAll.filter(i => {
       if (kid === '2024-2029') return i.kadencja === 'IX';
-      if (kid === '2018-2024') return i.kadencja === 'IX';
       if (kid === '2018-2023') return i.kadencja === 'VIII';
       return true;
     });
@@ -1128,7 +1127,7 @@ function showProfile(name) {
 
     // ── Interpelacje tab content ──
     const interpCatCounts = {};
-    showInterpItems.forEach(item => { const cat = item.kategoria || 'inne'; interpCatCounts[cat] = (interpCatCounts[cat] || 0) + 1; });
+    showInterpItems.forEach(item => { const cat = categorizeInterpelacja(item.przedmiot); interpCatCounts[cat] = (interpCatCounts[cat] || 0) + 1; });
     const interpCatOrder = Object.keys(INTERP_CATS).sort((a,b) => (INTERP_CATS[a]?.order||99) - (INTERP_CATS[b]?.order||99));
     if (hasInterp) {
       const interpCount = showInterpItems.filter(i => i.typ === 'interpelacja').length;
@@ -1138,17 +1137,18 @@ function showProfile(name) {
         <div class="filter-bar" id="profile-interp-cat-filter" style="margin-bottom:12px;flex-wrap:wrap"></div>
         <div id="profile-interp-container">`;
       showInterpItems.forEach(item => {
-        const key = (item.przedmiot||'').substring(0,80).replace(/'/g, "\\'");
-        const cat = item.kategoria || 'inne';
+        const oCri = (item.cri || '').replace(/'/g, "\\'");
+        const cat = categorizeInterpelacja(item.przedmiot);
         const typBadge = item.typ === 'zapytanie'
-          ? '<span style="background:rgba(37,99,235,0.12);color:#2563eb;padding:1px 5px;border-radius:3px;font-size:0.7rem;font-weight:600">Z</span>'
+          ? '<span style="background:rgba(37,99,235,0.12);color:var(--blue);padding:1px 5px;border-radius:3px;font-size:0.7rem;font-weight:600">Z</span>'
           : '<span style="background:rgba(79,70,229,0.12);color:var(--accent);padding:1px 5px;border-radius:3px;font-size:0.7rem;font-weight:600">I</span>';
-        html += `<div class="uchwala-row interp-row" data-icat="${cat}" onclick="showInterpelacja('${key}')" style="cursor:pointer;padding:8px 12px">
+        html += `<div class="uchwala-row interp-row" data-icat="${cat}" onclick="showInterpelacja('${oCri}')" style="cursor:pointer;padding:8px 12px">
           <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
             ${typBadge}
             ${interpCatPill(cat)}
-            <span style="font-size:0.75rem;color:var(--muted)">${item.data_wplywu}</span>
-            ${interpHasAnswer(item) ? '<span style="color:#16a34a;font-size:0.7rem">&#10003;</span>' : ''}
+            <span class="uchwala-numer" style="font-size:0.8rem">${item.cri || ''}</span>
+            <span style="font-size:0.75rem;color:var(--muted)">${item.data_wplywu || ''}</span>
+            ${interpHasAnswer(item) ? '<span style="color:var(--green);font-size:0.7rem">&#10003;</span>' : ''}
           </div>
           <div style="font-size:0.85rem">${item.przedmiot || ''}</div>
         </div>`;
