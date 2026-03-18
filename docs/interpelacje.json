@@ -1,5 +1,80 @@
 [
   {
+    "przedmiot": "możliwości przeprowadzenia rozszczelnień nawierzchni w czterech lokalizacjach osiedla Przedmieście Oławskie",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/83013/interpelacja-w-sprawie-mozliwosci-przeprowadzenia-rozszczelnien-nawierzchni-w-czterech-lokalizacjach-osiedla-przedmiescie-olawskie",
+    "typ": "interpelacja",
+    "radny": "Agnieszka Dusza i Izabela Duchnowska",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "kategoria": "infrastruktura",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_wplywu": "",
+    "data_odpowiedzi": "",
+    "tresc_url": "",
+    "odpowiedz_url": "",
+    "nr_sprawy": ""
+  },
+  {
+    "przedmiot": "budowy chodnika na ul. Mokrzańskiej",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/74218/interpelacja-w-sprawie-budowy-chodnika-na-ul-mokrzanskiej",
+    "typ": "interpelacja",
+    "radny": "Robert Suligowski",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "kategoria": "transport",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_wplywu": "",
+    "data_odpowiedzi": "",
+    "tresc_url": "",
+    "odpowiedz_url": "",
+    "nr_sprawy": ""
+  },
+  {
+    "przedmiot": "odpowiedzi na odpowiedź na interpelację dot. rejestru wniosków o dostęp do informacji publicznej wraz z odpowiedziami w Urzędzie Miejskim Wrocławia i spółkach miejskich",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/74155/interpelacja-w-sprawie-odpowiedzi-na-odpowiedz-na-interpelacje-dot-rejestru-wnioskow-o-dostep-do-informacji-publicznej-wrazz-odpowiedziami-w-urzedzie-miejskim-wroclawia-i-spolkach-miejskich",
+    "typ": "interpelacja",
+    "radny": "Dominika Kontecka",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "kategoria": "administracja",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_wplywu": "",
+    "data_odpowiedzi": "",
+    "tresc_url": "",
+    "odpowiedz_url": "",
+    "nr_sprawy": ""
+  },
+  {
+    "przedmiot": "realizacji porozumienia z dnia 25.06.2024 r. w zakresie otwartych konkursów na członków zarządów miejskich spółek",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/74154/interpelacja-w-sprawie-realizacji-porozumienia-z-dnia-25-06-2024-r-w-zakresie-otwartych-konkursow-na-czlonkow-zarzadow-miejskich-spolek",
+    "typ": "interpelacja",
+    "radny": "Dominika Kontecka",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "kategoria": "inne",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_wplywu": "",
+    "data_odpowiedzi": "",
+    "tresc_url": "",
+    "odpowiedz_url": "",
+    "nr_sprawy": ""
+  },
+  {
+    "przedmiot": "możliwości rozbudowy i wyremontowania Szkoły Podstawowej nr 28 we Wrocławiu",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/73670/interpelacja-w-sprawie-mozliwosci-rozbudowy-i-wyremontowania-szkoly-podstawowej-nr-28-we-wroclawiu",
+    "typ": "interpelacja",
+    "radny": "Dominika Kontecka",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "kategoria": "infrastruktura",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_wplywu": "",
+    "data_odpowiedzi": "",
+    "tresc_url": "",
+    "odpowiedz_url": "",
+    "nr_sprawy": ""
+  },
+  {
     "przedmiot": "okoliczności opróżnienia lokalu komunalnego w grudniu 2025 roku",
     "bip_url": "https://bip.um.wroc.pl/interpelacja/88113/zapytanie-w-sprawie-okolicznosci-oproznienia-lokalu-komunalnego-w-grudniu-2025-roku",
     "typ": "zapytanie",
@@ -136,21 +211,29 @@
     "bip_url": "https://bip.um.wroc.pl/interpelacja/87856/interpelacja-w-sprawie-zasad-rekrutacji-do-nowo-tworzonych-oddzialow-w-publicznych-przedszkolach-prowadzonych-przez-podmioty-zewnetrzne",
     "typ": "interpelacja",
     "radny": "Andrzej Kilijanek",
-    "status": "oczekuje na odpowiedź",
+    "status": "udzielono odpowiedzi",
     "kadencja": "IX",
     "typ_full": "Interpelacja",
     "data_wplywu": "2026-03-05",
     "tresc_url": "https://bip.um.wroc.pl/attachments/download/171726",
+    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/172163",
     "zalaczniki": [
       {
         "nazwa": "Interpelacja",
         "url": "https://bip.um.wroc.pl/attachments/download/171726"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację",
+        "url": "https://bip.um.wroc.pl/attachments/download/172162"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
+        "url": "https://bip.um.wroc.pl/attachments/download/172163"
       }
     ],
     "kategoria": "edukacja",
-    "odpowiedz_status": "oczekuje na odpowiedź",
+    "odpowiedz_status": "udzielono odpowiedzi",
     "data_odpowiedzi": "",
-    "odpowiedz_url": "",
     "nr_sprawy": ""
   },
   {
@@ -5227,36 +5310,6 @@
       }
     ],
     "kategoria": "transport",
-    "odpowiedz_status": "udzielono odpowiedzi",
-    "data_odpowiedzi": "",
-    "nr_sprawy": ""
-  },
-  {
-    "przedmiot": "możliwości przeprowadzenia rozszczelnień nawierzchni w czterech lokalizacjach osiedla Przedmieście Oławskie",
-    "bip_url": "https://bip.um.wroc.pl/interpelacja/83013/interpelacja-w-sprawie-mozliwosci-przeprowadzenia-rozszczelnien-nawierzchni-w-czterech-lokalizacjach-osiedla-przedmiescie-olawskie",
-    "typ": "interpelacja",
-    "radny": "Agnieszka Dusza i Izabela Duchnowska",
-    "status": "udzielono odpowiedzi",
-    "kadencja": "IX",
-    "typ_full": "Interpelacja",
-    "data_wplywu": "2025-08-12",
-    "tresc_url": "https://bip.um.wroc.pl/attachments/download/162734",
-    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/163410",
-    "zalaczniki": [
-      {
-        "nazwa": "Interpelacja",
-        "url": "https://bip.um.wroc.pl/attachments/download/162734"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację",
-        "url": "https://bip.um.wroc.pl/attachments/download/163269"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
-        "url": "https://bip.um.wroc.pl/attachments/download/163410"
-      }
-    ],
-    "kategoria": "infrastruktura",
     "odpowiedz_status": "udzielono odpowiedzi",
     "data_odpowiedzi": "",
     "nr_sprawy": ""
@@ -13528,6 +13581,36 @@
     "nr_sprawy": ""
   },
   {
+    "przedmiot": "remontu/korekty nawierzchni dojścia do wałów nad Odrą od strony ulicy Orkana",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/75140/interpelacja-w-sprawie-remontu-korekty-nawierzchni-dojscia-do-walow-nad-odra-od-strony-ulicy-orkana",
+    "typ": "interpelacja",
+    "radny": "Michał Kurczewski",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "typ_full": "Interpelacja",
+    "data_wplywu": "2024-09-03",
+    "tresc_url": "https://bip.um.wroc.pl/attachments/download/149086",
+    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/149579",
+    "zalaczniki": [
+      {
+        "nazwa": "Interpelacja",
+        "url": "https://bip.um.wroc.pl/attachments/download/149086"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację",
+        "url": "https://bip.um.wroc.pl/attachments/download/149578"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
+        "url": "https://bip.um.wroc.pl/attachments/download/149579"
+      }
+    ],
+    "kategoria": "transport",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_odpowiedzi": "",
+    "nr_sprawy": ""
+  },
+  {
     "przedmiot": "zabezpieczenia terenów parku Krzyckiego przed zabudową",
     "bip_url": "https://bip.um.wroc.pl/interpelacja/75120/interpelacja-w-sprawie-zabezpieczenia-terenow-parku-krzyckiego-przed-zabudowa",
     "typ": "interpelacja",
@@ -15010,96 +15093,6 @@
     "nr_sprawy": ""
   },
   {
-    "przedmiot": "budowy chodnika na ul. Mokrzańskiej",
-    "bip_url": "https://bip.um.wroc.pl/interpelacja/74218/interpelacja-w-sprawie-budowy-chodnika-na-ul-mokrzanskiej",
-    "typ": "interpelacja",
-    "radny": "Robert Suligowski",
-    "status": "udzielono odpowiedzi",
-    "kadencja": "IX",
-    "typ_full": "Interpelacja",
-    "data_wplywu": "2024-07-05",
-    "tresc_url": "https://bip.um.wroc.pl/attachments/download/147284",
-    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/147801",
-    "zalaczniki": [
-      {
-        "nazwa": "Interpelacja",
-        "url": "https://bip.um.wroc.pl/attachments/download/147284"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację",
-        "url": "https://bip.um.wroc.pl/attachments/download/147770"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
-        "url": "https://bip.um.wroc.pl/attachments/download/147801"
-      }
-    ],
-    "kategoria": "transport",
-    "odpowiedz_status": "udzielono odpowiedzi",
-    "data_odpowiedzi": "",
-    "nr_sprawy": ""
-  },
-  {
-    "przedmiot": "odpowiedzi na odpowiedź na interpelację dot. rejestru wniosków o dostęp do informacji publicznej wraz z odpowiedziami w Urzędzie Miejskim Wrocławia i spółkach miejskich",
-    "bip_url": "https://bip.um.wroc.pl/interpelacja/74155/interpelacja-w-sprawie-odpowiedzi-na-odpowiedz-na-interpelacje-dot-rejestru-wnioskow-o-dostep-do-informacji-publicznej-wrazz-odpowiedziami-w-urzedzie-miejskim-wroclawia-i-spolkach-miejskich",
-    "typ": "interpelacja",
-    "radny": "Dominika Kontecka",
-    "status": "udzielono odpowiedzi",
-    "kadencja": "IX",
-    "typ_full": "Interpelacja",
-    "data_wplywu": "2024-07-03",
-    "tresc_url": "https://bip.um.wroc.pl/attachments/download/147128",
-    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/147576",
-    "zalaczniki": [
-      {
-        "nazwa": "Interpelacja",
-        "url": "https://bip.um.wroc.pl/attachments/download/147128"
-      },
-      {
-        "nazwa": "Odpowiedż na interpelację",
-        "url": "https://bip.um.wroc.pl/attachments/download/147575"
-      },
-      {
-        "nazwa": "Odpowiedż na interpelację (wersja tekstowa)",
-        "url": "https://bip.um.wroc.pl/attachments/download/147576"
-      }
-    ],
-    "kategoria": "administracja",
-    "odpowiedz_status": "udzielono odpowiedzi",
-    "data_odpowiedzi": "",
-    "nr_sprawy": ""
-  },
-  {
-    "przedmiot": "realizacji porozumienia z dnia 25.06.2024 r. w zakresie otwartych konkursów na członków zarządów miejskich spółek",
-    "bip_url": "https://bip.um.wroc.pl/interpelacja/74154/interpelacja-w-sprawie-realizacji-porozumienia-z-dnia-25-06-2024-r-w-zakresie-otwartych-konkursow-na-czlonkow-zarzadow-miejskich-spolek",
-    "typ": "interpelacja",
-    "radny": "Dominika Kontecka",
-    "status": "udzielono odpowiedzi",
-    "kadencja": "IX",
-    "typ_full": "Interpelacja",
-    "data_wplywu": "2024-07-03",
-    "tresc_url": "https://bip.um.wroc.pl/attachments/download/147127",
-    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/147760",
-    "zalaczniki": [
-      {
-        "nazwa": "Interpelacja",
-        "url": "https://bip.um.wroc.pl/attachments/download/147127"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację",
-        "url": "https://bip.um.wroc.pl/attachments/download/147759"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
-        "url": "https://bip.um.wroc.pl/attachments/download/147760"
-      }
-    ],
-    "kategoria": "inne",
-    "odpowiedz_status": "udzielono odpowiedzi",
-    "data_odpowiedzi": "",
-    "nr_sprawy": ""
-  },
-  {
     "przedmiot": "zawieszenia na stałe polskiej flagi na maszcie flagowym Ronda 4 czerwca 1989 r. we Wrocławiu",
     "bip_url": "https://bip.um.wroc.pl/interpelacja/74120/interpelacja-w-sprawie-zawieszenia-na-stale-polskiej-flagi-na-maszcie-flagowym-ronda-4-czerwca-1989-r-we-wroclawiu",
     "typ": "interpelacja",
@@ -16164,36 +16157,6 @@
     "nr_sprawy": ""
   },
   {
-    "przedmiot": "możliwości rozbudowy i wyremontowania Szkoły Podstawowej nr 28 we Wrocławiu",
-    "bip_url": "https://bip.um.wroc.pl/interpelacja/73670/interpelacja-w-sprawie-mozliwosci-rozbudowy-i-wyremontowania-szkoly-podstawowej-nr-28-we-wroclawiu",
-    "typ": "interpelacja",
-    "radny": "Dominika Kontecka",
-    "status": "udzielono odpowiedzi",
-    "kadencja": "IX",
-    "typ_full": "Interpelacja",
-    "data_wplywu": "2024-06-06",
-    "tresc_url": "https://bip.um.wroc.pl/attachments/download/145745",
-    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/145966",
-    "zalaczniki": [
-      {
-        "nazwa": "Interpelacja",
-        "url": "https://bip.um.wroc.pl/attachments/download/145745"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
-        "url": "https://bip.um.wroc.pl/attachments/download/145965"
-      },
-      {
-        "nazwa": "Odpowiedź na interpelację",
-        "url": "https://bip.um.wroc.pl/attachments/download/145966"
-      }
-    ],
-    "kategoria": "infrastruktura",
-    "odpowiedz_status": "udzielono odpowiedzi",
-    "data_odpowiedzi": "",
-    "nr_sprawy": ""
-  },
-  {
     "przedmiot": "pozyskania gruntu przy styku ulicy Bazyliowej oraz Cynamonowej pod budowę Aquaparku z siłownią oraz mini tężniami solankowymi",
     "bip_url": "https://bip.um.wroc.pl/interpelacja/73669/interpelacja-w-sprawie-pozyskania-gruntu-przy-styku-ulicy-bazyliowej-oraz-cynamonowej-pod-budowe-aquaparku-z-silownia-oraz-mini-tezniami-solankowymi",
     "typ": "interpelacja",
@@ -16905,6 +16868,36 @@
       }
     ],
     "kategoria": "infrastruktura",
+    "odpowiedz_status": "udzielono odpowiedzi",
+    "data_odpowiedzi": "",
+    "nr_sprawy": ""
+  },
+  {
+    "przedmiot": "powstania mini tężni solankowych na północy Wrocławia",
+    "bip_url": "https://bip.um.wroc.pl/interpelacja/73366/interpelacja-w-sprawie-powstania-mini-tezni-solankowych-na-polnocy-wroclawia",
+    "typ": "interpelacja",
+    "radny": "Mateusz Żak",
+    "status": "udzielono odpowiedzi",
+    "kadencja": "IX",
+    "typ_full": "Interpelacja",
+    "data_wplywu": "2024-05-22",
+    "tresc_url": "https://bip.um.wroc.pl/attachments/download/145041",
+    "odpowiedz_url": "https://bip.um.wroc.pl/attachments/download/145586",
+    "zalaczniki": [
+      {
+        "nazwa": "Interpelacja",
+        "url": "https://bip.um.wroc.pl/attachments/download/145041"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację",
+        "url": "https://bip.um.wroc.pl/attachments/download/145585"
+      },
+      {
+        "nazwa": "Odpowiedź na interpelację (wersja tekstowa)",
+        "url": "https://bip.um.wroc.pl/attachments/download/145586"
+      }
+    ],
+    "kategoria": "inne",
     "odpowiedz_status": "udzielono odpowiedzi",
     "data_odpowiedzi": "",
     "nr_sprawy": ""

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T11:13:26.200511",
+  "generated": "2026-03-18T13:06:11.493097",
   "default_kadencja": "2024-2029",
   "kadencje": [
     {
@@ -12,50 +12,6 @@
       },
       "sessions": [
         {
-          "date": "2025-06-12",
-          "number": "XIX",
-          "vote_count": 36,
-          "attendee_count": 35,
-          "attendees": [
-            "Agnieszka Dusza",
-            "Agnieszka Rybczak",
-            "Andrzej Kilijanek",
-            "Anna Kołodziej",
-            "Bartłomiej Ciążyński",
-            "Dariusz Piwoński",
-            "Dominik Kłosowski",
-            "Dominika Kontecka",
-            "Edyta Skuła",
-            "Ewa Wolak",
-            "Ewa Wrońska",
-            "Igor Wójcik",
-            "Izabela Duchnowska",
-            "Jakub Janas",
-            "Jakub Nowotarski",
-            "Jarosław Krauze",
-            "Joanna Pieczyńska",
-            "Karolina Mrozowska",
-            "Krzysztof Zalewski",
-            "Maciej Zieliński",
-            "Magdalena Razik-Trziszka",
-            "Martyna Stachowiak",
-            "Marzena Bogusz",
-            "Mateusz Żak",
-            "Michał Kurczewski",
-            "Piotr Uhle",
-            "Robert Leszczyński",
-            "Robert Maślak",
-            "Robert Pieńkowski",
-            "Robert Suligowski",
-            "Sebastian Lorenc",
-            "Sławomir Czerwiński",
-            "Sławomir Śmigielski",
-            "Łukasz Kasztelowicz",
-            "Łukasz Olbert"
-          ],
-          "speakers": []
-        },
-        {
           "date": "2025-06-24",
           "number": "XX",
           "vote_count": 0,
@@ -66,7 +22,7 @@
         {
           "date": "2025-07-10",
           "number": "XXI",
-          "vote_count": 40,
+          "vote_count": 41,
           "attendee_count": 34,
           "attendees": [
             "Agnieszka Dusza",
@@ -143,7 +99,7 @@
         {
           "date": "2025-09-11",
           "number": "XXIII",
-          "vote_count": 49,
+          "vote_count": 50,
           "attendee_count": 35,
           "attendees": [
             "Agnieszka Dusza",
@@ -232,7 +188,7 @@
         {
           "date": "2025-11-20",
           "number": "XXV",
-          "vote_count": 85,
+          "vote_count": 86,
           "attendee_count": 36,
           "attendees": [
             "Agnieszka Dusza",
@@ -409,10 +365,18 @@
             "Łukasz Olbert"
           ],
           "speakers": []
+        },
+        {
+          "date": "2026-03-19",
+          "number": "XXIX",
+          "vote_count": 0,
+          "attendee_count": 0,
+          "attendees": [],
+          "speakers": []
         }
       ],
       "total_sessions": 10,
-      "total_votes": 429,
+      "total_votes": 396,
       "total_councilors": 38,
       "councilors": [
         {
@@ -421,13 +385,13 @@
           "district": null,
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 97.3,
-          "votes_za": 376,
+          "zgodnosc_z_klubem": 97.0,
+          "votes_za": 343,
           "votes_przeciw": 20,
           "votes_wstrzymal": 6,
           "votes_brak": 27,
           "votes_nieobecny": 0,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 11,
           "rebellions": [
             {
@@ -516,14 +480,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 98.3,
-          "votes_za": 381,
+          "aktywnosc": 99.7,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 349,
           "votes_przeciw": 24,
           "votes_wstrzymal": 2,
-          "votes_brak": 21,
+          "votes_brak": 20,
           "votes_nieobecny": 1,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 7,
           "rebellions": [
             {
@@ -584,14 +548,14 @@
           "club": "PiS",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 86.5,
-          "zgodnosc_z_klubem": 93.0,
-          "votes_za": 284,
+          "aktywnosc": 85.1,
+          "zgodnosc_z_klubem": 92.2,
+          "votes_za": 250,
           "votes_przeciw": 23,
           "votes_wstrzymal": 23,
           "votes_brak": 41,
-          "votes_nieobecny": 58,
-          "votes_total": 429,
+          "votes_nieobecny": 59,
+          "votes_total": 396,
           "rebellion_count": 23,
           "rebellions": [
             {
@@ -744,13 +708,13 @@
           "district": null,
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 98.3,
-          "votes_za": 380,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 350,
           "votes_przeciw": 18,
           "votes_wstrzymal": 6,
-          "votes_brak": 25,
+          "votes_brak": 22,
           "votes_nieobecny": 0,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 7,
           "rebellions": [
             {
@@ -810,15 +774,15 @@
           "name": "Bartłomiej Ciążyński",
           "club": "Lewica",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 93.0,
-          "zgodnosc_z_klubem": 98.8,
-          "votes_za": 318,
+          "frekwencja": 87.5,
+          "aktywnosc": 92.4,
+          "zgodnosc_z_klubem": 98.7,
+          "votes_za": 288,
           "votes_przeciw": 23,
           "votes_wstrzymal": 4,
-          "votes_brak": 54,
+          "votes_brak": 51,
           "votes_nieobecny": 30,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -857,15 +821,15 @@
           "name": "Dariusz Piwoński",
           "club": "PiS",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 94.2,
-          "zgodnosc_z_klubem": 96.6,
-          "votes_za": 333,
+          "frekwencja": 87.5,
+          "aktywnosc": 93.7,
+          "zgodnosc_z_klubem": 96.2,
+          "votes_za": 300,
           "votes_przeciw": 17,
           "votes_wstrzymal": 29,
           "votes_brak": 25,
           "votes_nieobecny": 25,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 13,
           "rebellions": [
             {
@@ -968,14 +932,14 @@
           "club": "Lewica",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 89.7,
+          "aktywnosc": 88.9,
           "zgodnosc_z_klubem": 99.7,
-          "votes_za": 328,
+          "votes_za": 297,
           "votes_przeciw": 23,
           "votes_wstrzymal": 2,
-          "votes_brak": 32,
+          "votes_brak": 30,
           "votes_nieobecny": 44,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 1,
           "rebellions": [
             {
@@ -995,14 +959,14 @@
           "district": null,
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 92.9,
-          "votes_za": 384,
+          "zgodnosc_z_klubem": 92.1,
+          "votes_za": 351,
           "votes_przeciw": 17,
-          "votes_wstrzymal": 21,
-          "votes_brak": 7,
+          "votes_wstrzymal": 22,
+          "votes_brak": 6,
           "votes_nieobecny": 0,
-          "votes_total": 429,
-          "rebellion_count": 30,
+          "votes_total": 396,
+          "rebellion_count": 31,
           "rebellions": [
             {
               "vote_id": "2025-07-10_004_000",
@@ -1050,6 +1014,13 @@
               "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -1136,13 +1107,6 @@
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Prezydenta Wrocławia - druk nr",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-11-20_063_000",
-              "session": "2025-11-20",
-              "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
             }
           ],
           "has_activity_data": false,
@@ -1152,15 +1116,15 @@
           "name": "Dorota Pędziwiatr",
           "club": "Lewica",
           "district": null,
-          "frekwencja": 66.7,
-          "aktywnosc": 62.5,
+          "frekwencja": 75.0,
+          "aktywnosc": 67.9,
           "zgodnosc_z_klubem": 99.6,
-          "votes_za": 238,
+          "votes_za": 239,
           "votes_przeciw": 11,
           "votes_wstrzymal": 4,
           "votes_brak": 15,
-          "votes_nieobecny": 161,
-          "votes_total": 429,
+          "votes_nieobecny": 127,
+          "votes_total": 396,
           "rebellion_count": 1,
           "rebellions": [
             {
@@ -1179,14 +1143,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 96.0,
-          "zgodnosc_z_klubem": 95.2,
-          "votes_za": 361,
+          "aktywnosc": 95.7,
+          "zgodnosc_z_klubem": 94.7,
+          "votes_za": 328,
           "votes_przeciw": 20,
           "votes_wstrzymal": 13,
           "votes_brak": 18,
           "votes_nieobecny": 17,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 19,
           "rebellions": [
             {
@@ -1330,15 +1294,15 @@
           "name": "Ewa Wolak",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 82.8,
-          "zgodnosc_z_klubem": 99.1,
-          "votes_za": 310,
+          "frekwencja": 87.5,
+          "aktywnosc": 81.3,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 283,
           "votes_przeciw": 24,
           "votes_wstrzymal": 0,
-          "votes_brak": 21,
+          "votes_brak": 15,
           "votes_nieobecny": 74,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 3,
           "rebellions": [
             {
@@ -1372,13 +1336,13 @@
           "district": null,
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
-          "zgodnosc_z_klubem": 95.0,
-          "votes_za": 385,
+          "zgodnosc_z_klubem": 94.6,
+          "votes_za": 352,
           "votes_przeciw": 18,
           "votes_wstrzymal": 17,
           "votes_brak": 9,
           "votes_nieobecny": 0,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 21,
           "rebellions": [
             {
@@ -1530,14 +1494,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 65.7,
-          "zgodnosc_z_klubem": 98.0,
-          "votes_za": 180,
+          "aktywnosc": 62.4,
+          "zgodnosc_z_klubem": 97.6,
+          "votes_za": 152,
           "votes_przeciw": 13,
           "votes_wstrzymal": 3,
-          "votes_brak": 86,
-          "votes_nieobecny": 147,
-          "votes_total": 429,
+          "votes_brak": 79,
+          "votes_nieobecny": 149,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -1577,14 +1541,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 96.3,
-          "zgodnosc_z_klubem": 98.3,
-          "votes_za": 377,
+          "aktywnosc": 96.0,
+          "zgodnosc_z_klubem": 98.1,
+          "votes_za": 344,
           "votes_przeciw": 22,
           "votes_wstrzymal": 5,
           "votes_brak": 9,
           "votes_nieobecny": 16,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 7,
           "rebellions": [
             {
@@ -1645,23 +1609,16 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 85.2,
-          "votes_za": 371,
-          "votes_przeciw": 21,
-          "votes_wstrzymal": 28,
+          "aktywnosc": 99.7,
+          "zgodnosc_z_klubem": 84.0,
+          "votes_za": 338,
+          "votes_przeciw": 20,
+          "votes_wstrzymal": 29,
           "votes_brak": 8,
           "votes_nieobecny": 1,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 62,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_003_000",
-              "session": "2025-06-12",
-              "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
-              "their_vote": "przeciw",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_001_000",
               "session": "2025-07-10",
@@ -1747,6 +1704,13 @@
               "club_majority": "przeciw"
             },
             {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2025-09-11_010_000",
               "session": "2025-09-11",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
@@ -1803,24 +1767,17 @@
           "name": "Jakub Nowotarski",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 99.1,
-          "zgodnosc_z_klubem": 84.6,
-          "votes_za": 338,
+          "frekwencja": 87.5,
+          "aktywnosc": 99.5,
+          "zgodnosc_z_klubem": 83.3,
+          "votes_za": 308,
           "votes_przeciw": 23,
           "votes_wstrzymal": 28,
-          "votes_brak": 36,
-          "votes_nieobecny": 4,
-          "votes_total": 429,
+          "votes_brak": 35,
+          "votes_nieobecny": 2,
+          "votes_total": 396,
           "rebellion_count": 60,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_003_000",
-              "session": "2025-06-12",
-              "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_001_000",
               "session": "2025-07-10",
@@ -1906,6 +1863,13 @@
               "club_majority": "przeciw"
             },
             {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2025-09-11_010_000",
               "session": "2025-09-11",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
@@ -1963,14 +1927,14 @@
           "club": "Lewica",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 98.8,
-          "zgodnosc_z_klubem": 99.2,
-          "votes_za": 357,
+          "aktywnosc": 98.7,
+          "zgodnosc_z_klubem": 99.1,
+          "votes_za": 328,
           "votes_przeciw": 19,
           "votes_wstrzymal": 0,
-          "votes_brak": 48,
+          "votes_brak": 44,
           "votes_nieobecny": 5,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 3,
           "rebellions": [
             {
@@ -2002,16 +1966,16 @@
           "name": "Joanna Pieczyńska",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 89.3,
-          "zgodnosc_z_klubem": 94.3,
-          "votes_za": 320,
+          "frekwencja": 87.5,
+          "aktywnosc": 88.4,
+          "zgodnosc_z_klubem": 93.5,
+          "votes_za": 289,
           "votes_przeciw": 17,
-          "votes_wstrzymal": 14,
-          "votes_brak": 32,
+          "votes_wstrzymal": 15,
+          "votes_brak": 29,
           "votes_nieobecny": 46,
-          "votes_total": 429,
-          "rebellion_count": 20,
+          "votes_total": 396,
+          "rebellion_count": 21,
           "rebellions": [
             {
               "vote_id": "2025-07-10_001_000",
@@ -2091,6 +2055,13 @@
               "club_majority": "za"
             },
             {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2025-09-11_010_000",
               "session": "2025-09-11",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
@@ -2145,13 +2116,6 @@
               "topic": "Projekt uchwały w sprawie zasad przyznawania diet i zwrotu kosztów podróży służbowej",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2026-02-26_009_000",
-              "session": "2026-02-26",
-              "topic": "Projekt uchwały zmieniającej uchwałę nr XLVII/1094/17 RMW w sprawie ustalenia cen",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "przeciw"
             }
           ],
           "has_activity_data": false,
@@ -2161,15 +2125,15 @@
           "name": "Karolina Krzeszowiec",
           "club": "PiS",
           "district": null,
-          "frekwencja": 66.7,
-          "aktywnosc": 73.9,
+          "frekwencja": 75.0,
+          "aktywnosc": 80.6,
           "zgodnosc_z_klubem": 96.7,
-          "votes_za": 258,
+          "votes_za": 259,
           "votes_przeciw": 12,
-          "votes_wstrzymal": 29,
+          "votes_wstrzymal": 30,
           "votes_brak": 18,
           "votes_nieobecny": 35,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 10,
           "rebellions": [
             {
@@ -2250,15 +2214,15 @@
           "name": "Karolina Mrozowska",
           "club": "PiS",
           "district": null,
-          "frekwencja": 22.2,
-          "aktywnosc": 17.7,
-          "zgodnosc_z_klubem": 94.4,
-          "votes_za": 60,
+          "frekwencja": 12.5,
+          "aktywnosc": 10.4,
+          "zgodnosc_z_klubem": 88.9,
+          "votes_za": 26,
           "votes_przeciw": 3,
-          "votes_wstrzymal": 8,
+          "votes_wstrzymal": 7,
           "votes_brak": 5,
           "votes_nieobecny": 10,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -2297,15 +2261,15 @@
           "name": "Krzysztof Zalewski",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 94.6,
-          "zgodnosc_z_klubem": 98.5,
-          "votes_za": 366,
+          "frekwencja": 87.5,
+          "aktywnosc": 94.9,
+          "zgodnosc_z_klubem": 98.3,
+          "votes_za": 337,
           "votes_przeciw": 19,
           "votes_wstrzymal": 5,
-          "votes_brak": 16,
-          "votes_nieobecny": 23,
-          "votes_total": 429,
+          "votes_brak": 15,
+          "votes_nieobecny": 20,
+          "votes_total": 396,
           "rebellion_count": 6,
           "rebellions": [
             {
@@ -2358,15 +2322,15 @@
           "name": "Maciej Zieliński",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 87.2,
-          "zgodnosc_z_klubem": 99.1,
-          "votes_za": 309,
+          "frekwencja": 87.5,
+          "aktywnosc": 85.9,
+          "zgodnosc_z_klubem": 99.0,
+          "votes_za": 275,
           "votes_przeciw": 22,
           "votes_wstrzymal": 1,
           "votes_brak": 42,
-          "votes_nieobecny": 55,
-          "votes_total": 429,
+          "votes_nieobecny": 56,
+          "votes_total": 396,
           "rebellion_count": 3,
           "rebellions": [
             {
@@ -2399,14 +2363,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 77.6,
-          "zgodnosc_z_klubem": 98.7,
-          "votes_za": 284,
+          "aktywnosc": 75.8,
+          "zgodnosc_z_klubem": 98.5,
+          "votes_za": 251,
           "votes_przeciw": 20,
           "votes_wstrzymal": 1,
           "votes_brak": 28,
           "votes_nieobecny": 96,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -2448,12 +2412,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 99.5,
           "zgodnosc_z_klubem": 99.0,
-          "votes_za": 387,
+          "votes_za": 354,
           "votes_przeciw": 29,
           "votes_wstrzymal": 0,
           "votes_brak": 11,
           "votes_nieobecny": 2,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -2492,16 +2456,16 @@
           "name": "Marzena Bogusz",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 87.6,
-          "zgodnosc_z_klubem": 95.1,
-          "votes_za": 312,
+          "frekwencja": 87.5,
+          "aktywnosc": 86.4,
+          "zgodnosc_z_klubem": 94.3,
+          "votes_za": 279,
           "votes_przeciw": 21,
-          "votes_wstrzymal": 13,
-          "votes_brak": 30,
-          "votes_nieobecny": 53,
-          "votes_total": 429,
-          "rebellion_count": 17,
+          "votes_wstrzymal": 14,
+          "votes_brak": 28,
+          "votes_nieobecny": 54,
+          "votes_total": 396,
+          "rebellion_count": 18,
           "rebellions": [
             {
               "vote_id": "2025-07-10_004_000",
@@ -2563,6 +2527,13 @@
               "vote_id": "2025-07-10_038_000",
               "session": "2025-07-10",
               "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora ZDiUM we Wrocławiu -",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
@@ -2630,16 +2601,16 @@
           "name": "Mateusz Żak",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 99.8,
-          "zgodnosc_z_klubem": 94.9,
-          "votes_za": 376,
+          "frekwencja": 87.5,
+          "aktywnosc": 99.7,
+          "zgodnosc_z_klubem": 94.2,
+          "votes_za": 342,
           "votes_przeciw": 23,
-          "votes_wstrzymal": 15,
+          "votes_wstrzymal": 16,
           "votes_brak": 14,
           "votes_nieobecny": 1,
-          "votes_total": 429,
-          "rebellion_count": 21,
+          "votes_total": 396,
+          "rebellion_count": 22,
           "rebellions": [
             {
               "vote_id": "2025-07-10_004_000",
@@ -2719,6 +2690,13 @@
               "club_majority": "przeciw"
             },
             {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
+            },
+            {
               "vote_id": "2025-09-11_010_000",
               "session": "2025-09-11",
               "topic": "Projekt uchwały zmieniającej uchwałę nr XII/211/24 RMW w sprawie przyjęcia",
@@ -2773,13 +2751,6 @@
               "topic": "Głosowanie w sprawie powołania radnego P. Uhle do składu Komisji Budżetu, Finansów",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
-            },
-            {
-              "vote_id": "2025-12-18_025_000",
-              "session": "2025-12-18",
-              "topic": "Projekt uchwały w sprawie rozpatrzenia wniosku w przedmiocie podjęcia działań",
-              "their_vote": "przeciw",
-              "club_majority": "za"
             }
           ],
           "has_activity_data": false,
@@ -2789,15 +2760,15 @@
           "name": "Michał Kurczewski",
           "club": "PiS",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 85.8,
-          "zgodnosc_z_klubem": 95.1,
-          "votes_za": 302,
+          "frekwencja": 87.5,
+          "aktywnosc": 85.4,
+          "zgodnosc_z_klubem": 94.6,
+          "votes_za": 272,
           "votes_przeciw": 10,
           "votes_wstrzymal": 32,
           "votes_brak": 24,
-          "votes_nieobecny": 61,
-          "votes_total": 429,
+          "votes_nieobecny": 58,
+          "votes_total": 396,
           "rebellion_count": 17,
           "rebellions": [
             {
@@ -2928,23 +2899,16 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 87.4,
-          "zgodnosc_z_klubem": 81.2,
-          "votes_za": 272,
+          "aktywnosc": 86.9,
+          "zgodnosc_z_klubem": 79.9,
+          "votes_za": 250,
           "votes_przeciw": 21,
           "votes_wstrzymal": 27,
-          "votes_brak": 55,
-          "votes_nieobecny": 54,
-          "votes_total": 429,
+          "votes_brak": 46,
+          "votes_nieobecny": 52,
+          "votes_total": 396,
           "rebellion_count": 60,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_003_000",
-              "session": "2025-06-12",
-              "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_001_000",
               "session": "2025-07-10",
@@ -3007,6 +2971,13 @@
               "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie zmiany nazwy mostu we",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
+            },
+            {
+              "vote_id": "2025-09-11_009_000",
+              "session": "2025-09-11",
+              "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+              "their_vote": "wstrzymal_sie",
+              "club_majority": "za"
             },
             {
               "vote_id": "2025-09-11_010_000",
@@ -3087,14 +3058,14 @@
           "club": "KO",
           "district": null,
           "frekwencja": 100.0,
-          "aktywnosc": 98.1,
-          "zgodnosc_z_klubem": 98.8,
-          "votes_za": 376,
+          "aktywnosc": 98.0,
+          "zgodnosc_z_klubem": 98.7,
+          "votes_za": 343,
           "votes_przeciw": 29,
           "votes_wstrzymal": 1,
           "votes_brak": 15,
           "votes_nieobecny": 8,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 5,
           "rebellions": [
             {
@@ -3143,12 +3114,12 @@
           "frekwencja": 100.0,
           "aktywnosc": 100.0,
           "zgodnosc_z_klubem": 99.5,
-          "votes_za": 383,
+          "votes_za": 350,
           "votes_przeciw": 25,
           "votes_wstrzymal": 2,
           "votes_brak": 19,
           "votes_nieobecny": 0,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 2,
           "rebellions": [
             {
@@ -3173,24 +3144,17 @@
           "name": "Robert Pieńkowski",
           "club": "PiS",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 83.9,
-          "zgodnosc_z_klubem": 95.3,
-          "votes_za": 300,
+          "frekwencja": 87.5,
+          "aktywnosc": 83.3,
+          "zgodnosc_z_klubem": 95.1,
+          "votes_za": 271,
           "votes_przeciw": 20,
-          "votes_wstrzymal": 18,
-          "votes_brak": 22,
-          "votes_nieobecny": 69,
-          "votes_total": 429,
-          "rebellion_count": 16,
+          "votes_wstrzymal": 16,
+          "votes_brak": 23,
+          "votes_nieobecny": 66,
+          "votes_total": 396,
+          "rebellion_count": 15,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_026_000",
-              "session": "2025-06-12",
-              "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 402/25",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-09-11_010_000",
               "session": "2025-09-11",
@@ -3304,15 +3268,15 @@
           "name": "Robert Suligowski",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 88.6,
-          "zgodnosc_z_klubem": 98.6,
-          "votes_za": 324,
+          "frekwencja": 87.5,
+          "aktywnosc": 87.4,
+          "zgodnosc_z_klubem": 98.4,
+          "votes_za": 291,
           "votes_przeciw": 25,
           "votes_wstrzymal": 4,
-          "votes_brak": 27,
-          "votes_nieobecny": 49,
-          "votes_total": 429,
+          "votes_brak": 26,
+          "votes_nieobecny": 50,
+          "votes_total": 396,
           "rebellion_count": 5,
           "rebellions": [
             {
@@ -3360,22 +3324,15 @@
           "district": null,
           "frekwencja": 100.0,
           "aktywnosc": 90.9,
-          "zgodnosc_z_klubem": 97.8,
-          "votes_za": 340,
+          "zgodnosc_z_klubem": 98.0,
+          "votes_za": 319,
           "votes_przeciw": 21,
-          "votes_wstrzymal": 4,
-          "votes_brak": 25,
-          "votes_nieobecny": 39,
-          "votes_total": 429,
-          "rebellion_count": 8,
+          "votes_wstrzymal": 3,
+          "votes_brak": 17,
+          "votes_nieobecny": 36,
+          "votes_total": 396,
+          "rebellion_count": 7,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_017_000",
-              "session": "2025-06-12",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulic Kleczkowskiej... - druk nr",
-              "their_vote": "wstrzymal_sie",
-              "club_majority": "za"
-            },
             {
               "vote_id": "2025-07-10_037_000",
               "session": "2025-07-10",
@@ -3433,15 +3390,15 @@
           "name": "Sławomir Czerwiński",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 97.0,
-          "zgodnosc_z_klubem": 99.5,
-          "votes_za": 365,
+          "frekwencja": 87.5,
+          "aktywnosc": 96.7,
+          "zgodnosc_z_klubem": 99.4,
+          "votes_za": 333,
           "votes_przeciw": 28,
           "votes_wstrzymal": 1,
-          "votes_brak": 22,
+          "votes_brak": 21,
           "votes_nieobecny": 13,
-          "votes_total": 429,
+          "votes_total": 396,
           "rebellion_count": 2,
           "rebellions": [
             {
@@ -3466,15 +3423,15 @@
           "name": "Sławomir Śmigielski",
           "club": "PiS",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 93.5,
-          "zgodnosc_z_klubem": 93.1,
-          "votes_za": 286,
+          "frekwencja": 87.5,
+          "aktywnosc": 93.7,
+          "zgodnosc_z_klubem": 92.5,
+          "votes_za": 256,
           "votes_przeciw": 22,
           "votes_wstrzymal": 27,
           "votes_brak": 66,
-          "votes_nieobecny": 28,
-          "votes_total": 429,
+          "votes_nieobecny": 25,
+          "votes_total": 396,
           "rebellion_count": 23,
           "rebellions": [
             {
@@ -3625,15 +3582,15 @@
           "name": "Tadeusz Grabarek",
           "club": "KO",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 84.4,
+          "frekwencja": 100.0,
+          "aktywnosc": 92.2,
           "zgodnosc_z_klubem": 98.7,
-          "votes_za": 283,
+          "votes_za": 286,
           "votes_przeciw": 21,
           "votes_wstrzymal": 0,
           "votes_brak": 58,
-          "votes_nieobecny": 67,
-          "votes_total": 429,
+          "votes_nieobecny": 31,
+          "votes_total": 396,
           "rebellion_count": 4,
           "rebellions": [
             {
@@ -3672,15 +3629,15 @@
           "name": "Łukasz Kasztelowicz",
           "club": "PiS",
           "district": null,
-          "frekwencja": 88.9,
-          "aktywnosc": 96.3,
-          "zgodnosc_z_klubem": 95.2,
-          "votes_za": 315,
+          "frekwencja": 87.5,
+          "aktywnosc": 96.7,
+          "zgodnosc_z_klubem": 94.8,
+          "votes_za": 289,
           "votes_przeciw": 27,
           "votes_wstrzymal": 32,
-          "votes_brak": 39,
-          "votes_nieobecny": 16,
-          "votes_total": 429,
+          "votes_brak": 35,
+          "votes_nieobecny": 13,
+          "votes_total": 396,
           "rebellion_count": 18,
           "rebellions": [
             {
@@ -3817,24 +3774,17 @@
           "name": "Łukasz Olbert",
           "club": "PiS",
           "district": null,
-          "frekwencja": 66.7,
-          "aktywnosc": 73.7,
-          "zgodnosc_z_klubem": 97.4,
-          "votes_za": 272,
+          "frekwencja": 62.5,
+          "aktywnosc": 72.0,
+          "zgodnosc_z_klubem": 97.5,
+          "votes_za": 241,
           "votes_przeciw": 14,
           "votes_wstrzymal": 24,
           "votes_brak": 6,
-          "votes_nieobecny": 113,
-          "votes_total": 429,
-          "rebellion_count": 8,
+          "votes_nieobecny": 111,
+          "votes_total": 396,
+          "rebellion_count": 7,
           "rebellions": [
-            {
-              "vote_id": "2025-06-12_018_000",
-              "session": "2025-06-12",
-              "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Swojczyckiej we",
-              "their_vote": "za",
-              "club_majority": "wstrzymal_sie"
-            },
             {
               "vote_id": "2025-07-10_007_000",
               "session": "2025-07-10",
@@ -3890,2265 +3840,6 @@
         }
       ],
       "votes": [
-        {
-          "id": "2025-06-12_000_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160175",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "II. Głosowanie nad wprowadzeniem - druk nr 416/25",
-          "druk": null,
-          "resolution": null,
-          "counts": {
-            "za": 25,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 11
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Anna Kołodziej"
-            ],
-            "nieobecni": [
-              "Łukasz Olbert",
-              "Dorota Pędziwiatr",
-              "Robert Pieńkowski",
-              "Tadeusz Grabarek",
-              "Łukasz Kasztelowicz",
-              "Sławomir Śmigielski",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Jakub Nowotarski"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_001_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160176",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "II. Głosowanie nad wprowadzeniem - druk nr 417/25",
-          "druk": null,
-          "resolution": null,
-          "counts": {
-            "za": 26,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 10
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Anna Kołodziej"
-            ],
-            "nieobecni": [
-              "Łukasz Olbert",
-              "Dorota Pędziwiatr",
-              "Robert Pieńkowski",
-              "Tadeusz Grabarek",
-              "Łukasz Kasztelowicz",
-              "Sławomir Śmigielski",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_002_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160177",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "II. Głosowanie nad wprowadzeniem - druk nr 415/25",
-          "druk": null,
-          "resolution": null,
-          "counts": {
-            "za": 25,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 11
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Anna Kołodziej"
-            ],
-            "nieobecni": [
-              "Łukasz Olbert",
-              "Dorota Pędziwiatr",
-              "Robert Pieńkowski",
-              "Tadeusz Grabarek",
-              "Łukasz Kasztelowicz",
-              "Sławomir Śmigielski",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Jakub Nowotarski"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_003_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160178",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "IV. Głosowanie w sprawie skierowania projektu apelu do II czytania - druk nr 414/25",
-          "druk": "414/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 1,
-            "wstrzymal_sie": 2,
-            "brak_glosu": 0,
-            "nieobecni": 3
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak"
-            ],
-            "przeciw": [
-              "Jakub Janas"
-            ],
-            "wstrzymal_sie": [
-              "Piotr Uhle",
-              "Jakub Nowotarski"
-            ],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Robert Pieńkowski",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_004_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160179",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie przeniesienia siedziby Przedszkola nr 148 we Wrocławiu -",
-          "druk": "361/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 4,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Marzena Bogusz",
-              "Joanna Pieczyńska",
-              "Piotr Uhle",
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_005_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160180",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie przeniesienia siedziby Zespołu Szkół nr 17 oraz szkół",
-          "druk": "362/25",
-          "resolution": null,
-          "counts": {
-            "za": 30,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 5,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Marzena Bogusz",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Igor Wójcik",
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_006_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160181",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie utworzenia Branżowego Centrum Umiejętności nr 4... - druk",
-          "druk": "394/25",
-          "resolution": null,
-          "counts": {
-            "za": 33,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 2,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Piotr Uhle",
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_007_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160182",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie włączenia Branżowego Centrum Umiejętności nr 2... - druk",
-          "druk": "395/25",
-          "resolution": null,
-          "counts": {
-            "za": 32,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 3,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Piotr Uhle",
-              "Sebastian Lorenc",
-              "Jakub Nowotarski"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_008_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160183",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie zaliczenia do kategorii dróg gminnych odcinków ulic we",
-          "druk": "389/25",
-          "resolution": null,
-          "counts": {
-            "za": 33,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 2,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Piotr Uhle",
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_009_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160184",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie ustalenia przebiegu istniejących dróg powiatowych we",
-          "druk": "390/25",
-          "resolution": null,
-          "counts": {
-            "za": 32,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 3,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Joanna Pieczyńska",
-              "Jarosław Krauze",
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_010_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160185",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie ustalenia przebiegu istniejących dróg gminnych we",
-          "druk": "391/25",
-          "resolution": null,
-          "counts": {
-            "za": 34,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_011_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160186",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały zmieniającej uchwałę nr XXVI/586/12 RMW w sprawie określenia",
-          "druk": "407/25",
-          "resolution": null,
-          "counts": {
-            "za": 34,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Sebastian Lorenc"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_012_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160187",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie zatwierdzenia sprawozdania finansowego Centrum",
-          "druk": "392/25",
-          "resolution": null,
-          "counts": {
-            "za": 34,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Sławomir Czerwiński"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_013_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160188",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie zatwierdzenia sprawozdania finansowego Wrocławskiego",
-          "druk": "393/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_014_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160189",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały zmieniającej uchwałę nr XXIII/500/16 RMW w sprawie nadania",
-          "druk": "406/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_015_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160190",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie udzielenia dotacji celowej na wykonanie prac",
-          "druk": "412/25",
-          "resolution": null,
-          "counts": {
-            "za": 33,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 2,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Piotr Uhle",
-              "Krzysztof Zalewski"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_016_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160191",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały zmieniającej uchwałę nr LIV/3242/06 RMW w sprawie przyjęcia zasad",
-          "druk": "411/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_017_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160192",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulic Kleczkowskiej... - druk nr",
-          "druk": "408/25",
-          "resolution": null,
-          "counts": {
-            "za": 33,
-            "przeciw": 0,
-            "wstrzymal_sie": 1,
-            "brak_glosu": 1,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [
-              "Sebastian Lorenc"
-            ],
-            "brak_glosu": [
-              "Dominik Kłosowski"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_018_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160193",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie ulicy Swojczyckiej we",
-          "druk": "409/25",
-          "resolution": null,
-          "counts": {
-            "za": 28,
-            "przeciw": 0,
-            "wstrzymal_sie": 7,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [
-              "Robert Pieńkowski",
-              "Dariusz Piwoński",
-              "Łukasz Kasztelowicz",
-              "Andrzej Kilijanek",
-              "Sławomir Śmigielski",
-              "Michał Kurczewski",
-              "Karolina Mrozowska"
-            ],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_019_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160194",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie uchwalenia mpzp w rejonie mostu Tumskiego... - druk nr",
-          "druk": "410/25",
-          "resolution": null,
-          "counts": {
-            "za": 34,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 1,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Agnieszka Rybczak"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_020_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160195",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 396/25",
-          "druk": "396/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_021_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160196",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 397/25",
-          "druk": "397/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_022_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160197",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 398/25",
-          "druk": "398/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_023_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160198",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 399/25",
-          "druk": "399/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_024_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160199",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 400/25",
-          "druk": "400/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_025_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160200",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 401/25",
-          "druk": "401/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_026_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160201",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 402/25",
-          "druk": "402/25",
-          "resolution": null,
-          "counts": {
-            "za": 34,
-            "przeciw": 0,
-            "wstrzymal_sie": 1,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [
-              "Robert Pieńkowski"
-            ],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_027_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160202",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 403/25",
-          "druk": "403/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_028_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160203",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie nadania nazwy ulicy na terenie Wrocławia - druk nr 404/25",
-          "druk": "404/25",
-          "resolution": null,
-          "counts": {
-            "za": 35,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 0,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Igor Wójcik",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_030_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160205",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały zmieniającej uchwałę nr XI/204/24 RMW w sprawie planu kontroli",
-          "druk": "413/25",
-          "resolution": null,
-          "counts": {
-            "za": 33,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 2,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Łukasz Kasztelowicz",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_031_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160206",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "27A.  Projekt uchwały w sprawie stwierdzenia wygaśnięcia mandatu radnej RO Pawłowice -",
-          "druk": "415/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 4,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Łukasz Kasztelowicz",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_032_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160207",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "27B.  Projekt uchwały w sprawie stwierdzenia wygaśnięcia mandatu radnego RO Pawłowice",
-          "druk": "416/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 4,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Łukasz Kasztelowicz",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_033_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160208",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "27C.  Projekt uchwały w sprawie stwierdzenia wygaśnięcia mandatu radnego RO Psie Pole-",
-          "druk": "417/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 4,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Bartłomiej Ciążyński",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Piotr Uhle",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Łukasz Kasztelowicz",
-              "Jarosław Krauze",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_034_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160209",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora Zespołu Szkolno –",
-          "druk": "386/25",
-          "resolution": null,
-          "counts": {
-            "za": 28,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 7,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Sławomir Czerwiński",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Bartłomiej Ciążyński",
-              "Joanna Pieczyńska",
-              "Łukasz Kasztelowicz",
-              "Dominik Kłosowski",
-              "Piotr Uhle",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_035_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160210",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie rozpatrzenia skargi na Dyrektora Zarządu Zieleni Miejskiej",
-          "druk": "387/25",
-          "resolution": null,
-          "counts": {
-            "za": 30,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 5,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Bartłomiej Ciążyński",
-              "Robert Suligowski",
-              "Piotr Uhle",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
-        {
-          "id": "2025-06-12_036_000",
-          "source_url": "https://bip.um.wroc.pl/attachments/download/160211",
-          "session_date": "2025-06-12",
-          "session_number": "XIX",
-          "topic": "Projekt uchwały w sprawie rozpatrzenia petycji w przedmiocie ochrony starego",
-          "druk": "388/25",
-          "resolution": null,
-          "counts": {
-            "za": 31,
-            "przeciw": 0,
-            "wstrzymal_sie": 0,
-            "brak_glosu": 4,
-            "nieobecni": 2
-          },
-          "named_votes": {
-            "za": [
-              "Marzena Bogusz",
-              "Łukasz Olbert",
-              "Sławomir Czerwiński",
-              "Joanna Pieczyńska",
-              "Izabela Duchnowska",
-              "Robert Pieńkowski",
-              "Agnieszka Dusza",
-              "Dariusz Piwoński",
-              "Magdalena Razik-Trziszka",
-              "Jakub Janas",
-              "Agnieszka Rybczak",
-              "Łukasz Kasztelowicz",
-              "Edyta Skuła",
-              "Andrzej Kilijanek",
-              "Martyna Stachowiak",
-              "Dominik Kłosowski",
-              "Robert Suligowski",
-              "Anna Kołodziej",
-              "Sławomir Śmigielski",
-              "Dominika Kontecka",
-              "Jarosław Krauze",
-              "Michał Kurczewski",
-              "Robert Leszczyński",
-              "Ewa Wrońska",
-              "Sebastian Lorenc",
-              "Krzysztof Zalewski",
-              "Robert Maślak",
-              "Maciej Zieliński",
-              "Karolina Mrozowska",
-              "Mateusz Żak",
-              "Jakub Nowotarski"
-            ],
-            "przeciw": [],
-            "wstrzymal_sie": [],
-            "brak_glosu": [
-              "Bartłomiej Ciążyński",
-              "Piotr Uhle",
-              "Ewa Wolak",
-              "Igor Wójcik"
-            ],
-            "nieobecni": [
-              "Dorota Pędziwiatr",
-              "Tadeusz Grabarek"
-            ]
-          }
-        },
         {
           "id": "2025-07-10_000_000",
           "source_url": "https://bip.um.wroc.pl/attachments/download/161591",
@@ -7427,6 +5118,69 @@
             "nieobecni": [
               "Dorota Pędziwiatr",
               "Robert Pieńkowski",
+              "Maciej Zieliński"
+            ]
+          }
+        },
+        {
+          "id": "2025-07-10_020_000",
+          "source_url": "https://bip.um.wroc.pl/attachments/download/161659",
+          "session_date": "2025-07-10",
+          "session_number": "XXI",
+          "topic": "Projekt uchwały w sprawie przystąpienia do sporządzenia mpzp w rejonie alei",
+          "druk": "443/25",
+          "resolution": null,
+          "counts": {
+            "za": 31,
+            "przeciw": 0,
+            "wstrzymal_sie": 0,
+            "brak_glosu": 1,
+            "nieobecni": 5
+          },
+          "named_votes": {
+            "za": [
+              "Marzena Bogusz",
+              "Łukasz Olbert",
+              "Bartłomiej Ciążyński",
+              "Sławomir Czerwiński",
+              "Joanna Pieczyńska",
+              "Izabela Duchnowska",
+              "Agnieszka Dusza",
+              "Dariusz Piwoński",
+              "Tadeusz Grabarek",
+              "Magdalena Razik-Trziszka",
+              "Jakub Janas",
+              "Agnieszka Rybczak",
+              "Edyta Skuła",
+              "Andrzej Kilijanek",
+              "Martyna Stachowiak",
+              "Dominik Kłosowski",
+              "Robert Suligowski",
+              "Anna Kołodziej",
+              "Sławomir Śmigielski",
+              "Dominika Kontecka",
+              "Jarosław Krauze",
+              "Ewa Wolak",
+              "Michał Kurczewski",
+              "Robert Leszczyński",
+              "Ewa Wrońska",
+              "Sebastian Lorenc",
+              "Krzysztof Zalewski",
+              "Robert Maślak",
+              "Karolina Mrozowska",
+              "Mateusz Żak",
+              "Jakub Nowotarski"
+            ],
+            "przeciw": [],
+            "wstrzymal_sie": [],
+            "brak_glosu": [
+              "Łukasz Kasztelowicz"
+            ],
+            "nieobecni": [
+              "Dorota Pędziwiatr",
+              "Robert Pieńkowski",
+              "Piotr Uhle",
+              "Igor Wójcik",
               "Maciej Zieliński"
             ]
           }
@@ -9325,6 +7079,70 @@
               "Łukasz Olbert",
               "Robert Suligowski",
               "Sebastian Lorenc"
+            ]
+          }
+        },
+        {
+          "id": "2025-09-11_009_000",
+          "source_url": "https://bip.um.wroc.pl/attachments/download/164128",
+          "session_date": "2025-09-11",
+          "session_number": "XXIII",
+          "topic": "Projekt uchwały zmieniającej uchwałę nr XII/210/24 RMW w sprawie budżetu Miasta na",
+          "druk": "483/25",
+          "resolution": null,
+          "counts": {
+            "za": 20,
+            "przeciw": 0,
+            "wstrzymal_sie": 13,
+            "brak_glosu": 2,
+            "nieobecni": 2
+          },
+          "named_votes": {
+            "za": [
+              "Bartłomiej Ciążyński",
+              "Dorota Pędziwiatr",
+              "Sławomir Czerwiński",
+              "Izabela Duchnowska",
+              "Agnieszka Dusza",
+              "Tadeusz Grabarek",
+              "Magdalena Razik-Trziszka",
+              "Agnieszka Rybczak",
+              "Edyta Skuła",
+              "Martyna Stachowiak",
+              "Dominik Kłosowski",
+              "Anna Kołodziej",
+              "Jarosław Krauze",
+              "Ewa Wolak",
+              "Ewa Wrońska",
+              "Robert Leszczyński",
+              "Krzysztof Zalewski",
+              "Sebastian Lorenc",
+              "Maciej Zieliński",
+              "Robert Maślak"
+            ],
+            "przeciw": [],
+            "wstrzymal_sie": [
+              "Marzena Bogusz",
+              "Joanna Pieczyńska",
+              "Dariusz Piwoński",
+              "Jakub Janas",
+              "Łukasz Kasztelowicz",
+              "Andrzej Kilijanek",
+              "Sławomir Śmigielski",
+              "Dominika Kontecka",
+              "Piotr Uhle",
+              "Karolina Krzeszowiec",
+              "Michał Kurczewski",
+              "Mateusz Żak",
+              "Jakub Nowotarski"
+            ],
+            "brak_glosu": [
+              "Robert Pieńkowski",
+              "Igor Wójcik"
+            ],
+            "nieobecni": [
+              "Łukasz Olbert",
+              "Robert Suligowski"
             ]
           }
         },
@@ -18027,6 +15845,68 @@
           "session_date": "2025-11-20",
           "session_number": "XXV",
           "topic": "Głosowanie w sprawie powołania radnego J. Krauze do składu Komisji Edukacji i",
+          "druk": null,
+          "resolution": null,
+          "counts": {
+            "za": 33,
+            "przeciw": 0,
+            "wstrzymal_sie": 0,
+            "brak_glosu": 0,
+            "nieobecni": 4
+          },
+          "named_votes": {
+            "za": [
+              "Łukasz Olbert",
+              "Bartłomiej Ciążyński",
+              "Sławomir Czerwiński",
+              "Joanna Pieczyńska",
+              "Izabela Duchnowska",
+              "Robert Pieńkowski",
+              "Agnieszka Dusza",
+              "Dariusz Piwoński",
+              "Tadeusz Grabarek",
+              "Magdalena Razik-Trziszka",
+              "Jakub Janas",
+              "Agnieszka Rybczak",
+              "Łukasz Kasztelowicz",
+              "Edyta Skuła",
+              "Martyna Stachowiak",
+              "Dominik Kłosowski",
+              "Robert Suligowski",
+              "Anna Kołodziej",
+              "Sławomir Śmigielski",
+              "Dominika Kontecka",
+              "Piotr Uhle",
+              "Jarosław Krauze",
+              "Ewa Wolak",
+              "Karolina Krzeszowiec",
+              "Michał Kurczewski",
+              "Ewa Wrońska",
+              "Robert Leszczyński",
+              "Krzysztof Zalewski",
+              "Sebastian Lorenc",
+              "Maciej Zieliński",
+              "Robert Maślak",
+              "Mateusz Żak",
+              "Jakub Nowotarski"
+            ],
+            "przeciw": [],
+            "wstrzymal_sie": [],
+            "brak_glosu": [],
+            "nieobecni": [
+              "Marzena Bogusz",
+              "Dorota Pędziwiatr",
+              "Andrzej Kilijanek",
+              "Igor Wójcik"
+            ]
+          }
+        },
+        {
+          "id": "2025-11-20_050_000",
+          "source_url": "https://bip.um.wroc.pl/attachments/download/167311",
+          "session_date": "2025-11-20",
+          "session_number": "XXV",
+          "topic": "Głosowanie w sprawie powołania radnego  R. Leszczyńskiego do składu Komisji",
           "druk": null,
           "resolution": null,
           "counts": {
@@ -30990,7 +28870,7 @@
           "club_a": "Lewica",
           "club_b": "KO",
           "score": 100.0,
-          "common_votes": 288
+          "common_votes": 258
         },
         {
           "a": "Jarosław Krauze",
@@ -30998,23 +28878,7 @@
           "club_a": "Lewica",
           "club_b": "KO",
           "score": 100.0,
-          "common_votes": 367
-        },
-        {
-          "a": "Dominik Kłosowski",
-          "b": "Jarosław Krauze",
-          "club_a": "Lewica",
-          "club_b": "Lewica",
-          "score": 99.7,
-          "common_votes": 305
-        },
-        {
-          "a": "Ewa Wolak",
-          "b": "Jarosław Krauze",
-          "club_a": "KO",
-          "club_b": "Lewica",
-          "score": 99.7,
-          "common_votes": 292
+          "common_votes": 338
         },
         {
           "a": "Ewa Wolak",
@@ -31022,7 +28886,7 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.7,
-          "common_votes": 327
+          "common_votes": 300
         },
         {
           "a": "Jarosław Krauze",
@@ -31030,7 +28894,7 @@
           "club_a": "Lewica",
           "club_b": "KO",
           "score": 99.7,
-          "common_votes": 355
+          "common_votes": 326
         },
         {
           "a": "Maciej Zieliński",
@@ -31038,7 +28902,7 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.7,
-          "common_votes": 322
+          "common_votes": 288
         },
         {
           "a": "Martyna Stachowiak",
@@ -31046,7 +28910,23 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.7,
-          "common_votes": 395
+          "common_votes": 362
+        },
+        {
+          "a": "Dominik Kłosowski",
+          "b": "Jarosław Krauze",
+          "club_a": "Lewica",
+          "club_b": "Lewica",
+          "score": 99.6,
+          "common_votes": 278
+        },
+        {
+          "a": "Ewa Wolak",
+          "b": "Jarosław Krauze",
+          "club_a": "KO",
+          "club_b": "Lewica",
+          "score": 99.6,
+          "common_votes": 266
         },
         {
           "a": "Ewa Wolak",
@@ -31054,7 +28934,7 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.6,
-          "common_votes": 277
+          "common_votes": 250
         },
         {
           "a": "Maciej Zieliński",
@@ -31062,31 +28942,23 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.5,
-          "common_votes": 219
+          "common_votes": 221
         },
         {
           "a": "Ewa Wolak",
           "b": "Robert Leszczyński",
           "club_a": "KO",
           "club_b": "KO",
-          "score": 99.4,
-          "common_votes": 329
+          "score": 99.3,
+          "common_votes": 302
         },
         {
           "a": "Igor Wójcik",
           "b": "Jarosław Krauze",
           "club_a": "KO",
           "club_b": "Lewica",
-          "score": 99.4,
-          "common_votes": 174
-        },
-        {
-          "a": "Maciej Zieliński",
-          "b": "Robert Leszczyński",
-          "club_a": "KO",
-          "club_b": "KO",
-          "score": 99.4,
-          "common_votes": 320
+          "score": 99.3,
+          "common_votes": 147
         },
         {
           "a": "Jarosław Krauze",
@@ -31094,15 +28966,15 @@
           "club_a": "Lewica",
           "club_b": "KO",
           "score": 99.3,
-          "common_votes": 270
+          "common_votes": 273
         },
         {
-          "a": "Magdalena Razik-Trziszka",
-          "b": "Martyna Stachowiak",
+          "a": "Maciej Zieliński",
+          "b": "Robert Leszczyński",
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.3,
-          "common_votes": 298
+          "common_votes": 286
         },
         {
           "a": "Martyna Stachowiak",
@@ -31110,7 +28982,7 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.3,
-          "common_votes": 297
+          "common_votes": 300
         },
         {
           "a": "Sławomir Czerwiński",
@@ -31118,7 +28990,7 @@
           "club_a": "KO",
           "club_b": "KO",
           "score": 99.3,
-          "common_votes": 287
+          "common_votes": 290
         },
         {
           "a": "Dominik Kłosowski",
@@ -31126,29 +28998,69 @@
           "club_a": "Lewica",
           "club_b": "KO",
           "score": 99.2,
-          "common_votes": 244
+          "common_votes": 247
+        },
+        {
+          "a": "Ewa Wolak",
+          "b": "Tadeusz Grabarek",
+          "club_a": "KO",
+          "club_b": "KO",
+          "score": 99.2,
+          "common_votes": 255
+        },
+        {
+          "a": "Magdalena Razik-Trziszka",
+          "b": "Martyna Stachowiak",
+          "club_a": "KO",
+          "club_b": "KO",
+          "score": 99.2,
+          "common_votes": 265
         },
         {
           "a": "Ewa Wolak",
           "b": "Maciej Zieliński",
           "club_a": "KO",
           "club_b": "KO",
-          "score": 99.2,
-          "common_votes": 254
-        },
-        {
-          "a": "Ewa Wolak",
-          "b": "Tadeusz Grabarek",
-          "club_a": "KO",
-          "club_b": "KO",
-          "score": 99.2,
-          "common_votes": 252
+          "score": 99.1,
+          "common_votes": 226
         }
       ],
       "similarity_bottom": [
         {
           "a": "Karolina Mrozowska",
-          "b": "Tadeusz Grabarek",
+          "b": "Piotr Uhle",
+          "club_a": "PiS",
+          "club_b": "KO",
+          "score": 45.5,
+          "common_votes": 11
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Marzena Bogusz",
+          "club_a": "PiS",
+          "club_b": "KO",
+          "score": 61.1,
+          "common_votes": 36
+        },
+        {
+          "a": "Ewa Wrońska",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 61.1,
+          "common_votes": 36
+        },
+        {
+          "a": "Dominika Kontecka",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 61.1,
+          "common_votes": 36
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Sławomir Czerwiński",
           "club_a": "PiS",
           "club_b": "KO",
           "score": 62.9,
@@ -31159,152 +29071,120 @@
           "b": "Sebastian Lorenc",
           "club_a": "PiS",
           "club_b": "KO",
-          "score": 74.6,
-          "common_votes": 59
-        },
-        {
-          "a": "Andrzej Kilijanek",
-          "b": "Robert Suligowski",
-          "club_a": "PiS",
-          "club_b": "KO",
-          "score": 76.8,
-          "common_votes": 267
-        },
-        {
-          "a": "Ewa Wolak",
-          "b": "Sławomir Śmigielski",
-          "club_a": "KO",
-          "club_b": "PiS",
-          "score": 77.0,
-          "common_votes": 265
-        },
-        {
-          "a": "Karolina Mrozowska",
-          "b": "Piotr Uhle",
-          "club_a": "PiS",
-          "club_b": "KO",
-          "score": 77.1,
+          "score": 62.9,
           "common_votes": 35
         },
         {
-          "a": "Bartłomiej Ciążyński",
-          "b": "Łukasz Kasztelowicz",
+          "a": "Anna Kołodziej",
+          "b": "Karolina Mrozowska",
           "club_a": "Lewica",
           "club_b": "PiS",
-          "score": 77.2,
-          "common_votes": 325
-        },
-        {
-          "a": "Andrzej Kilijanek",
-          "b": "Bartłomiej Ciążyński",
-          "club_a": "PiS",
-          "club_b": "Lewica",
-          "score": 77.2,
-          "common_votes": 259
-        },
-        {
-          "a": "Ewa Wolak",
-          "b": "Piotr Uhle",
-          "club_a": "KO",
-          "club_b": "KO",
-          "score": 77.3,
-          "common_votes": 251
-        },
-        {
-          "a": "Andrzej Kilijanek",
-          "b": "Magdalena Razik-Trziszka",
-          "club_a": "PiS",
-          "club_b": "KO",
-          "score": 77.3,
-          "common_votes": 220
-        },
-        {
-          "a": "Andrzej Kilijanek",
-          "b": "Ewa Wolak",
-          "club_a": "PiS",
-          "club_b": "KO",
-          "score": 77.7,
-          "common_votes": 256
+          "score": 62.9,
+          "common_votes": 35
         },
         {
           "a": "Dominik Kłosowski",
-          "b": "Karolina Krzeszowiec",
+          "b": "Karolina Mrozowska",
           "club_a": "Lewica",
           "club_b": "PiS",
-          "score": 77.8,
-          "common_votes": 243
-        },
-        {
-          "a": "Magdalena Razik-Trziszka",
-          "b": "Piotr Uhle",
-          "club_a": "KO",
-          "club_b": "KO",
-          "score": 78.0,
-          "common_votes": 232
-        },
-        {
-          "a": "Bartłomiej Ciążyński",
-          "b": "Sławomir Śmigielski",
-          "club_a": "Lewica",
-          "club_b": "PiS",
-          "score": 78.0,
-          "common_votes": 282
-        },
-        {
-          "a": "Andrzej Kilijanek",
-          "b": "Dominik Kłosowski",
-          "club_a": "PiS",
-          "club_b": "Lewica",
-          "score": 78.0,
-          "common_votes": 286
-        },
-        {
-          "a": "Magdalena Razik-Trziszka",
-          "b": "Sławomir Śmigielski",
-          "club_a": "KO",
-          "club_b": "PiS",
-          "score": 78.2,
-          "common_votes": 248
-        },
-        {
-          "a": "Sebastian Lorenc",
-          "b": "Sławomir Śmigielski",
-          "club_a": "KO",
-          "club_b": "PiS",
-          "score": 78.3,
-          "common_votes": 290
-        },
-        {
-          "a": "Robert Suligowski",
-          "b": "Łukasz Kasztelowicz",
-          "club_a": "KO",
-          "club_b": "PiS",
-          "score": 78.3,
-          "common_votes": 313
+          "score": 63.6,
+          "common_votes": 33
         },
         {
           "a": "Karolina Mrozowska",
-          "b": "Marzena Bogusz",
+          "b": "Tadeusz Grabarek",
           "club_a": "PiS",
           "club_b": "KO",
-          "score": 78.3,
-          "common_votes": 69
+          "score": 63.9,
+          "common_votes": 36
         },
         {
-          "a": "Dominik Kłosowski",
-          "b": "Łukasz Kasztelowicz",
+          "a": "Karolina Mrozowska",
+          "b": "Robert Maślak",
+          "club_a": "PiS",
+          "club_b": "Lewica",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Robert Leszczyński",
+          "club_a": "PiS",
+          "club_b": "KO",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Martyna Stachowiak",
+          "club_a": "PiS",
+          "club_b": "KO",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Magdalena Razik-Trziszka",
+          "club_a": "PiS",
+          "club_b": "KO",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Bartłomiej Ciążyński",
+          "b": "Karolina Mrozowska",
           "club_a": "Lewica",
           "club_b": "PiS",
-          "score": 78.3,
-          "common_votes": 309
+          "score": 63.9,
+          "common_votes": 36
         },
         {
-          "a": "Andrzej Kilijanek",
-          "b": "Sławomir Czerwiński",
+          "a": "Agnieszka Rybczak",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Agnieszka Dusza",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 63.9,
+          "common_votes": 36
+        },
+        {
+          "a": "Karolina Mrozowska",
+          "b": "Robert Suligowski",
           "club_a": "PiS",
           "club_b": "KO",
-          "score": 78.3,
-          "common_votes": 304
+          "score": 64.7,
+          "common_votes": 34
+        },
+        {
+          "a": "Izabela Duchnowska",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 65.7,
+          "common_votes": 35
+        },
+        {
+          "a": "Ewa Wolak",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 65.7,
+          "common_votes": 35
+        },
+        {
+          "a": "Joanna Pieczyńska",
+          "b": "Karolina Mrozowska",
+          "club_a": "KO",
+          "club_b": "PiS",
+          "score": 66.7,
+          "common_votes": 36
         }
       ]
     }
