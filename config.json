@@ -8,13 +8,25 @@
   "bip_url": "https://bip.um.wroc.pl/artykuly/769/sesje-rady",
   "bip_name": "BIP Wrocław",
   "github_url": "https://github.com/patrykorwat/radoskop-wroclaw",
-  "ga_id": "",
+  "ga_id": "G-1SH24XVXR3",
   "author": "Patryk Orwat",
   "cname": "wroclaw.radoskop.pl",
   "clubs": {
-    "KO":      {"color": "#0284c7", "bg": "rgba(14,165,233,0.12)",  "avatar_bg": "#0369a1"},
-    "PiS":     {"color": "#7c3aed", "bg": "rgba(168,85,247,0.12)",  "avatar_bg": "#6d28d9"},
-    "Lewica":  {"color": "#dc2626", "bg": "rgba(239,68,68,0.12)",   "avatar_bg": "#b91c1c"}
+    "KO": {
+      "color": "#0284c7",
+      "bg": "rgba(14,165,233,0.12)",
+      "avatar_bg": "#0369a1"
+    },
+    "PiS": {
+      "color": "#7c3aed",
+      "bg": "rgba(168,85,247,0.12)",
+      "avatar_bg": "#6d28d9"
+    },
+    "Lewica": {
+      "color": "#dc2626",
+      "bg": "rgba(239,68,68,0.12)",
+      "avatar_bg": "#b91c1c"
+    }
   },
   "kadencje": {
     "2024-2029": {

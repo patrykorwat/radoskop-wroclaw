@@ -40,7 +40,8 @@
   "inLanguage": "pl"
 }
 </script>
-<!-- No analytics configured -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1SH24XVXR3"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-1SH24XVXR3');</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
 :root {
@@ -473,6 +474,7 @@ function selectKadencja(kid) {
 }
 
 function activateTab(tabName) {
+  trackEvent('view_tab', {tab_name: tabName});
   const allTabs = ['ranking','profiles','sessions','votes','similarity','budget'];
   currentTab = tabName;
   document.querySelectorAll('.tab').forEach(t => {
@@ -530,6 +532,11 @@ function routePath() {
 function profileSlug(name) {
   const p = PROFILES && PROFILES.profiles.find(pr => pr.name === name);
   return p ? p.slug : name.toLowerCase().replace(/\s+/g, '-');
+}
+
+// GA4 event tracking
+function trackEvent(eventName, params) {
+  if (typeof gtag === 'function') gtag('event', eventName, params || {});
 }
 
 // Build link elements via string concatenation so crawlers
@@ -721,6 +728,7 @@ function showProfile(name) {
   const profile = PROFILES.profiles.find(p => p.name === name);
   if (!profile) return;
 
+  trackEvent('view_profile', {profile_name: name, profile_slug: profile.slug});
   hideAllViews();
   const view = document.getElementById('profile-view');
   view.style.display = 'block';
@@ -1202,6 +1210,7 @@ function renderVotesTable() {
 }
 
 function showVote(voteId) {
+  trackEvent('view_vote', {vote_id: voteId});
   // Search across all kadencje, not just the currently active one
   let vote = null, voteKad = null;
   for (const kad of RAW.kadencje) {
@@ -1323,6 +1332,7 @@ function backFromVote() {
 }
 
 function showSession(sessionNumber) {
+  trackEvent('view_session', {session_number: sessionNumber});
   // Find session and kadencja by session number — search current kadencja first
   let sess = null, sessKad = null;
   // Prioritize current kadencja (session numbers repeat across kadencje)
