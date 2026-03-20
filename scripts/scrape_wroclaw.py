@@ -1071,7 +1071,9 @@ def _run_offline(args):
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        compact_named_votes(output)
+
+        json.dump(output, f, ensure_ascii=False, separators=(',', ':'))
 
     print(f"\nGotowe! Zapisano do {out_path}")
     total_v = len(all_votes)
@@ -1184,6 +1186,29 @@ def main():
                 else:
                     print(f"  Nie sparsowano głosowania z PDF")
                     import fitz as _fitz
+
+def compact_named_votes(output):
+    """Convert named_votes from string arrays to indexed format for smaller JSON."""
+    for kad in output.get("kadencje", []):
+        names = set()
+        for v in kad.get("votes", []):
+            nv = v.get("named_votes", {})
+            for cat_names in nv.values():
+                for n in cat_names:
+                    if isinstance(n, str):
+                        names.add(n)
+        if not names:
+            continue
+        index = sorted(names, key=lambda n: n.split()[-1] + " " + n)
+        name_to_idx = {n: i for i, n in enumerate(index)}
+        kad["councilor_index"] = index
+        for v in kad.get("votes", []):
+            nv = v.get("named_votes", {})
+            for cat in nv:
+                nv[cat] = sorted(name_to_idx[n] for n in nv[cat] if isinstance(n, str) and n in name_to_idx)
+    return output
+
+
                     d = _fitz.open(str(pdf_path))
                     txt = d[0].get_text()[:500]
                     d.close()
@@ -1282,7 +1307,9 @@ def main():
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        compact_named_votes(output)
+
+        json.dump(output, f, ensure_ascii=False, separators=(',', ':'))
 
     print(f"\nGotowe! Zapisano do {out_path}")
     total_v = len(all_votes)
