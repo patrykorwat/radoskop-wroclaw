@@ -1182,6 +1182,12 @@ def main():
                 else:
                     print(f"  Nie sparsowano głosowania z PDF")
                     import fitz as _fitz
+                    d = _fitz.open(str(pdf_path))
+                    txt = d[0].get_text()[:500]
+                    d.close()
+                    print(f"  Tekst PDF (500 znaków):\n{txt}")
+        return
+
 
 def compact_named_votes(output):
     """Convert named_votes from string arrays to indexed format for smaller JSON."""
@@ -1203,13 +1209,6 @@ def compact_named_votes(output):
             for cat in nv:
                 nv[cat] = sorted(name_to_idx[n] for n in nv[cat] if isinstance(n, str) and n in name_to_idx)
     return output
-
-
-                    d = _fitz.open(str(pdf_path))
-                    txt = d[0].get_text()[:500]
-                    d.close()
-                    print(f"  Tekst PDF (500 znaków):\n{txt}")
-        return
 
     # 2. Fetch PDFs and parse votes for each session
     print(f"\n[2/{total_steps}] Pobieranie protokołów i głosowań ({len(all_sessions)} sesji)...")
