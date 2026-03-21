@@ -1069,11 +1069,7 @@ def _run_offline(args):
     }
 
     out_path = Path(args.output)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        compact_named_votes(output)
-
-        json.dump(output, f, ensure_ascii=False, separators=(',', ':'))
+    save_split_output(output, out_path)
 
     print(f"\nGotowe! Zapisano do {out_path}")
     total_v = len(all_votes)
@@ -1305,11 +1301,7 @@ def compact_named_votes(output):
     }
 
     out_path = Path(args.output)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        compact_named_votes(output)
-
-        json.dump(output, f, ensure_ascii=False, separators=(',', ':'))
+    save_split_output(output, out_path)
 
     print(f"\nGotowe! Zapisano do {out_path}")
     total_v = len(all_votes)
@@ -1318,6 +1310,30 @@ def compact_named_votes(output):
 
     # Merge stats into profiles.json
     merge_stats_to_profiles(args.profiles, output)
+
+
+
+def save_split_output(output, out_path):
+    """Save output as split files: data.json (index) + kadencja-{id}.json per kadencja."""
+    import json as _json
+    from pathlib import Path as _Path
+    compact_named_votes(output)
+    out_path = _Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    stubs = []
+    for kad in output.get("kadencje", []):
+        kid = kad["id"]
+        stubs.append({"id": kid, "label": kad.get("label", f"Kadencja {kid}")})
+        kad_path = out_path.parent / f"kadencja-{kid}.json"
+        with open(kad_path, "w", encoding="utf-8") as f:
+            _json.dump(kad, f, ensure_ascii=False, separators=(",", ":"))
+    index = {
+        "generated": output.get("generated", ""),
+        "default_kadencja": output.get("default_kadencja", ""),
+        "kadencje": stubs,
+    }
+    with open(out_path, "w", encoding="utf-8") as f:
+        _json.dump(index, f, ensure_ascii=False, separators=(",", ":"))
 
 
 if __name__ == "__main__":
